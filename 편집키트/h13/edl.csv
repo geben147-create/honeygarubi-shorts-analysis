@@ -2,7 +2,7 @@
 1,0.0,0.067,0.067,false,text,insert,정면 텍스트 카드,고정,1x,타이틀 카드 깜빡임(검출 노이즈),hook,,BGM만,,https://www.youtube.com/watch?v=ppSJE_38Npw&t=0s
 2,0.067,2.603,2.536,hard,text,insert,정면 텍스트 카드,고정,1x,타이틀 카드 정지 유지,hook,제목 훅 문구,BGM만,,https://www.youtube.com/watch?v=ppSJE_38Npw&t=0s
 3,2.603,2.803,0.2,dissolve,object,insert,정면 이펙트 오버레이,고정,1x,스모크 와이프 전환(화이트 아웃),setup,,전환 스침음(추정),스모크 와이프,https://www.youtube.com/watch?v=ppSJE_38Npw&t=2s
-4,2.803,4.905,2.102,hard,face,MCU,정면,고정,1x,말풍선 자막 순차 타이핑,setup,도입 내레이션,도입 내레이션 음성(onsets_per_s 3.81),,https://www.youtube.com/watch?v=ppSJE_38Npw&t=2s
+4,2.803,4.905,2.102,hard,face,MCU,정면,고정,1x,"말풍선 자막 순차 타이핑, 캐릭터 명찰(포켓몬친구) 표시",setup,도입 내레이션,도입 내레이션 음성(onsets_per_s 3.81),,https://www.youtube.com/watch?v=ppSJE_38Npw&t=2s
 5,4.905,6.206,1.301,hard,face,CU,정면 POV,고정,1x,"자막 타이핑, 배경 흐림 없음",setup,회상 도입,회상 전환 내레이션(onsets_per_s 3.84),,https://www.youtube.com/watch?v=ppSJE_38Npw&t=4s
 6,6.206,7.541,1.335,hard,face,MCU,정면,편집 줌(펀치인),1x,포켓몬 도감 배경 삽입,build,친구 주장 도입,주장 대사 내레이션,,https://www.youtube.com/watch?v=ppSJE_38Npw&t=6s
 7,7.541,8.642,1.101,jump,face,CU,정면 클로즈업,편집 줌(펀치인),1x,눈물 이펙트 스티커,build,친구 주장 강조,고역비 최고 구간(hf_ratio_4k 0.174),눈물 스티커 등장음(추정),https://www.youtube.com/watch?v=ppSJE_38Npw&t=7s

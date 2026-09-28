@@ -1,0 +1,156 @@
+{
+"fps": 29.97002997002997,
+"frames": 651,
+"duration": 21.722,
+"size": [
+720,
+1280
+],
+"threshold": 4.0,
+"shots": [
+{
+"idx": 1,
+"f_in": 0,
+"f_out": 1,
+"t_in": 0.0,
+"t_out": 0.067,
+"dur": 0.067,
+"cut_score": null,
+"bright_mean": 175.9,
+"sat_mean": 0.8,
+"motion_mean": 14.04
+},
+{
+"idx": 2,
+"f_in": 2,
+"f_out": 66,
+"t_in": 0.067,
+"t_out": 2.236,
+"dur": 2.169,
+"cut_score": 4.36,
+"bright_mean": 174.2,
+"sat_mean": 4.7,
+"motion_mean": 1.42
+},
+{
+"idx": 3,
+"f_in": 67,
+"f_out": 72,
+"t_in": 2.236,
+"t_out": 2.436,
+"dur": 0.2,
+"cut_score": 5.3,
+"bright_mean": 240.7,
+"sat_mean": 3.4,
+"motion_mean": 10.25
+},
+{
+"idx": 4,
+"f_in": 73,
+"f_out": 125,
+"t_in": 2.436,
+"t_out": 4.204,
+"dur": 1.768,
+"cut_score": 5.42,
+"bright_mean": 151.2,
+"sat_mean": 70.3,
+"motion_mean": 9.14
+},
+{
+"idx": 5,
+"f_in": 126,
+"f_out": 204,
+"t_in": 4.204,
+"t_out": 6.84,
+"dur": 2.636,
+"cut_score": 12.77,
+"bright_mean": 173.7,
+"sat_mean": 84.7,
+"motion_mean": 9.4
+},
+{
+"idx": 6,
+"f_in": 205,
+"f_out": 287,
+"t_in": 6.84,
+"t_out": 9.61,
+"dur": 2.769,
+"cut_score": 9.79,
+"bright_mean": 169.7,
+"sat_mean": 85.3,
+"motion_mean": 1.93
+},
+{
+"idx": 7,
+"f_in": 288,
+"f_out": 333,
+"t_in": 9.61,
+"t_out": 11.144,
+"dur": 1.535,
+"cut_score": 12.12,
+"bright_mean": 146.8,
+"sat_mean": 61.6,
+"motion_mean": 4.5
+},
+{
+"idx": 8,
+"f_in": 334,
+"f_out": 384,
+"t_in": 11.144,
+"t_out": 12.846,
+"dur": 1.702,
+"cut_score": 12.75,
+"bright_mean": 116.8,
+"sat_mean": 137.0,
+"motion_mean": 3.5
+},
+{
+"idx": 9,
+"f_in": 385,
+"f_out": 421,
+"t_in": 12.846,
+"t_out": 14.081,
+"dur": 1.235,
+"cut_score": 5.46,
+"bright_mean": 91.8,
+"sat_mean": 122.3,
+"motion_mean": 6.51
+},
+{
+"idx": 10,
+"f_in": 422,
+"f_out": 507,
+"t_in": 14.081,
+"t_out": 16.95,
+"dur": 2.87,
+"cut_score": 10.83,
+"bright_mean": 143.7,
+"sat_mean": 67.7,
+"motion_mean": 9.86
+},
+{
+"idx": 11,
+"f_in": 508,
+"f_out": 600,
+"t_in": 16.95,
+"t_out": 20.053,
+"dur": 3.103,
+"cut_score": 11.98,
+"bright_mean": 166.0,
+"sat_mean": 57.1,
+"motion_mean": 5.62
+},
+{
+"idx": 12,
+"f_in": 601,
+"f_out": 650,
+"t_in": 20.053,
+"t_out": 21.722,
+"dur": 1.668,
+"cut_score": 13.66,
+"bright_mean": 125.9,
+"sat_mean": 95.8,
+"motion_mean": 3.79
+}
+]
+}

@@ -8,7 +8,7 @@
 7,6.807,8.842,2.035,jump,face_hands,MCU,정면,편집 줌(펀치인),1x,말풍선 이름표 라벨,build,말을 걸어옴,발화 시작음(온셋 밀도 2.95/s),,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=6s
 8,8.842,10.577,1.735,hard,face,CU,정면 클로즈업 리액션,편집 줌(펀치인),1x,편집 펀치인 클로즈업,reaction,낯선 대사에 당황,당황 스팅어(온셋 밀도 1.73/s),confusion_pop,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=8s
 9,10.577,12.646,2.069,hard,face_hands,MS,정면(포옹 구도),고정,1x,포옹 구도 정적 연출,build,오래전 회고,차분한 배경음(온셋 밀도 1.93/s),,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=10s
-10,12.646,14.014,1.368,hard,face_hands,MCU,정면(기기 위 걸터앉음),고정,1x,완급 조절용 정적 컷,build,시간 경과 강조,여운음(온셋 밀도 0.73/s로 전체 중 가장 낮음),,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=12s
+10,12.646,14.014,1.368,hard,face_hands,MCU,정면(기기 위 걸터앉음),고정,1x,완급 조절용 정적 컷,build,시간 경과 강조,여운음(온셋 밀도 0.73/s로 대사가 있는 컷 중 가장 낮음 — 문구 카드·전환 컷인 컷1·3은 무음에 가까워 0.0/s로 더 낮지만 대사가 없는 컷이라 비교에서 제외),,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=12s
 11,14.014,16.483,2.469,flash,mixed,insert,로우앵글 실루엣 인서트,크래시 줌,1x,크래시 줌+이질적 스톡 합성,tension,의미심장한 감사 인사,긴장 드론(온셋 밀도 1.62/s이지만 저음역 강조로 체감 긴장감 높음),tension_drone,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=14s
 12,16.483,18.418,1.935,hard,face,CU,정면 클로즈업 리액션,편집 줌(펀치인),1x,편집 펀치인+어두운 배경 처리,reveal,이별 암시 공포,경악 스팅어(온셋 밀도 3.1/s),shock_stinger,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=16s
 13,18.418,19.987,1.568,hard,face_hands,MCU,정면(포옹 클로즈업),고정,1x,포옹 클로즈업 감정 전환,payoff,공포에서 웃음으로,훈훈 전환벨(온셋 밀도 3.19/s),warm_chime,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=18s

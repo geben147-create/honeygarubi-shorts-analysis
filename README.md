@@ -1,6 +1,6 @@
 # 허니가루비 — 일본 관련 10 + 육아·자녀 고충 10, 컷 단위 분석
 
-허니가루비(구독 18.1만, 2등신 캐릭터 애니메이션 사연 쇼츠) 최근 영상 중 일본 관련 10개 + 육아·자녀 고충 10개, 총 **16개·234컷**을 하나씩 분해했습니다(기준일 2026-09-28).
+허니가루비(구독 18.1만, 2등신 캐릭터 애니메이션 사연 쇼츠) 최근 영상 중 일본 관련 10개 + 육아·자녀 고충 10개, 총 **20개·287컷**을 하나씩 분해했습니다(기준일 2026-09-28).
 
 초점: ① 소재·어그로(훅) ② 앵글 ③ 빠른 컷(빡빡빡) ④ 소리·내레이션 ⑤ 편집 효과·퀄 ⑥ 캐릭터 클로즈업 vs 배경/텍스트만 ⑦ 스토리 구조
 
@@ -31,6 +31,10 @@
 | 14번 (🇯🇵 일본 관련) | 일본 시골 회사에서 있었던 일 | [japan_14.txt](https://geben147-create.github.io/honeygarubi-shorts-analysis/japan_14.txt) | [유튜브](https://www.youtube.com/watch?v=yHUQ74Mth_s) |
 | 15번 (🇯🇵 일본 관련) | 한국어 공부하다가 인싸가 된 일본사람 | [japan_15.txt](https://geben147-create.github.io/honeygarubi-shorts-analysis/japan_15.txt) | [유튜브](https://www.youtube.com/watch?v=Cqbuxwekz0Q) |
 | 16번 (🇯🇵 일본 관련) | 일본 회사에서 받은 서민들은 못 먹는 과자 | [japan_16.txt](https://geben147-create.github.io/honeygarubi-shorts-analysis/japan_16.txt) | [유튜브](https://www.youtube.com/watch?v=gAOrfxh1cM0) |
+| 17번 (🇯🇵 일본 관련) | 일본 라멘집에서 받은 걱정되는 음식 | [japan_17.txt](https://geben147-create.github.io/honeygarubi-shorts-analysis/japan_17.txt) | [유튜브](https://www.youtube.com/watch?v=H0Sxmhi-hoc) |
+| 18번 (🇯🇵 일본 관련) | 일본 딸래미가 아빠 이름 듣고 놀란 이유 | [japan_18.txt](https://geben147-create.github.io/honeygarubi-shorts-analysis/japan_18.txt) | [유튜브](https://www.youtube.com/watch?v=tbmehEfKnZQ) |
+| 19번 (🇯🇵 일본 관련) | 일본 소아과 간호사가 처음 봤던 모습 | [japan_19.txt](https://geben147-create.github.io/honeygarubi-shorts-analysis/japan_19.txt) | [유튜브](https://www.youtube.com/watch?v=nQpLC02C5VM) |
+| 20번 (🇯🇵 일본 관련) | 일본 친구가 성심당에서 실망했던 이유 | [japan_20.txt](https://geben147-create.github.io/honeygarubi-shorts-analysis/japan_20.txt) | [유튜브](https://www.youtube.com/watch?v=wq253dARXUU) |
 
 ## 폴더 구성
 - `index.html`·`영상분석.html` — 웹 페이지(📋 복사 버튼)

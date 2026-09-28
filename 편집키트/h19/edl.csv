@@ -1,0 +1,15 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,2.035,2.035,hard,text,insert,"정면(타이틀 카드, 인물 없음)",고정,1x,강조색(초록) 둘째 줄 텍스트,hook,소재 예고,BGM만,,https://www.youtube.com/watch?v=nQpLC02C5VM&t=0s
+2,2.035,2.236,0.2,dissolve,object,insert,정면(전환 그래픽),고정,1x,스모크 와이프,hook,,스모크 전환 훅음,whoosh,https://www.youtube.com/watch?v=nQpLC02C5VM&t=2s
+3,2.236,3.804,1.568,whip,face_hands,CU,정면 클로즈업,편집 줌(펀치인),1x,펀치인 줌+잔여 스모크 블러,setup,직업 소개,캐릭터 리빌 스팅어,reveal_sting,https://www.youtube.com/watch?v=nQpLC02C5VM&t=2s
+4,3.804,5.272,1.468,hard,hands,insert,매크로(손 클로즈업 인서트),고정,1x,화풍 전환(플랫 일러스트),setup,호출 상황,호출 버튼 삐빅음(연속),beep,https://www.youtube.com/watch?v=nQpLC02C5VM&t=3s
+5,5.272,6.273,1.001,hard,face,CU,정면 클로즈업,고정,1x,눈 깜빡임 표정 애니메이션,reaction,당황 반응,BGM만,,https://www.youtube.com/watch?v=nQpLC02C5VM&t=5s
+6,6.273,8.242,1.969,hard,face_hands,MCU,정면 투샷,고정,1x,미세 팬 이동(호흡감),setup,환자 등장,BGM만,,https://www.youtube.com/watch?v=nQpLC02C5VM&t=6s
+7,8.242,10.777,2.536,hard,face,CU,정면 클로즈업(말풍선 인서트),고정,1x,"원어+자막 이중 표기, 자막 타이핑 애니메이션",build,부탁 전달,말풍선 팝음,pop,https://www.youtube.com/watch?v=nQpLC02C5VM&t=8s
+8,10.777,12.179,1.401,hard,hands,insert,매크로(편지 클로즈업),고정,1x,반짝임 스파클 오버레이,build,편지 전달,BGM만,sparkle,https://www.youtube.com/watch?v=nQpLC02C5VM&t=10s
+9,12.179,13.814,1.635,hard,face_hands,MS,정면 그룹샷,고정,1x,핑크톤 하이라이트,tension,소식 확산,편지 반짝임 마법음,sparkle,https://www.youtube.com/watch?v=nQpLC02C5VM&t=12s
+10,13.814,15.215,1.401,hard,face_hands,MCU,정면(팝인 등장),고정(캐릭터 팝인),1x,캐릭터 팝인,tension,주장1,BGM만,,https://www.youtube.com/watch?v=nQpLC02C5VM&t=13s
+11,15.215,16.216,1.001,hard,face_hands,MCU,정면 투샷,고정,1x,컷 끝부분 모션 블러(다음 컷 예고),tension,주장2,캐릭터 등장 스팅어,character_sting,https://www.youtube.com/watch?v=nQpLC02C5VM&t=15s
+12,16.216,17.751,1.535,whip,face_hands,MS,로우앵글 전신(팝인 리빌),크래시 줌,1x,모션 블러 휩 팝인,tension,주장3,휩 전환 강조음,whip_whoosh,https://www.youtube.com/watch?v=nQpLC02C5VM&t=16s
+13,17.751,19.953,2.202,dissolve,mixed,insert,정면(일러스트 리빌 전환),고정(디졸브 전환),1x,세피아톤 디졸브 전환,reveal,신화 해설,역사화풍 리빌 드럼힛,epic_hit,https://www.youtube.com/watch?v=nQpLC02C5VM&t=17s
+14,19.953,22.789,2.836,hard,face_hands,MS,정면 그룹샷,고정,1x,정지 프레임 홀드,loop,엔딩 루프,엔딩 루프 챠임,chime,https://www.youtube.com/watch?v=nQpLC02C5VM&t=19s

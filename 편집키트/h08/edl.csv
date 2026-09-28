@@ -1,12 +1,12 @@
 ﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
 1,0.0,0.067,0.067,flash,text,insert,정면 타이틀 카드,고정,1x,화이트 플래시,hook,채널 오프닝,오프닝 반짝임 효과음(추정),화이트 플래시 전환음,https://www.youtube.com/watch?v=uukyy_oOt7c&t=0s
-2,0.067,2.169,2.102,dissolve,face_hands,MS,정면 상반신,고정,1x,화이트 글로우 디졸브 + 타이핑 자막,setup,첫째 소개,BGM만,,https://www.youtube.com/watch?v=uukyy_oOt7c&t=0s
+2,0.067,2.169,2.102,dissolve,text,insert,정면 텍스트 카드,고정,1x,화이트 글로우 카드 유지,hook,게시물 미리보기 문구,BGM만,,https://www.youtube.com/watch?v=uukyy_oOt7c&t=0s
 3,2.169,2.369,0.2,dissolve,text,insert,정면 전환 인서트,편집 줌(펀치인),1x,스모크 와이프,setup,장면 전환,전환 강조음(추정),스모크 와이프 효과음,https://www.youtube.com/watch?v=uukyy_oOt7c&t=2s
 4,2.369,4.404,2.035,hard,face_hands,MS,정면 상반신 2인,고정,1x,타이핑 자막,setup,둘째 등장,등장 효과음(추정),인물 등장음,https://www.youtube.com/watch?v=uukyy_oOt7c&t=2s
 5,4.404,7.007,2.603,hard,face,ECU,정면 클로즈업,고정,1x,타이핑 자막,build,능력 언급,BGM만,,https://www.youtube.com/watch?v=uukyy_oOt7c&t=4s
 6,7.007,7.908,0.901,jump,face,CU,정면 클로즈업 지속,고정,1x,타이핑 자막 일시정지,tension,말 끊김,정적 강조(추정),,https://www.youtube.com/watch?v=uukyy_oOt7c&t=7s
 7,7.908,9.843,1.935,hard,mixed,insert,정면 스탯카드 인서트,고정,1x,스탯창 UI 오버레이,reveal,능력 공개,스탯창 팝업음(추정),UI 팝업음,https://www.youtube.com/watch?v=uukyy_oOt7c&t=7s
-8,9.843,11.044,1.201,hard,mixed,MS,측면 풀샷 + 텍스트 인서트,고정,1x,퀘스트 UI 오버레이,build,미션 목록,퀘스트 등록음(추정),체크리스트 등록음,https://www.youtube.com/watch?v=uukyy_oOt7c&t=9s
+8,9.843,11.044,1.201,hard,mixed,MS,정면 반신 + 상단 텍스트 인서트,고정,1x,퀘스트 UI 오버레이,build,미션 목록,퀘스트 등록음(추정),체크리스트 등록음,https://www.youtube.com/watch?v=uukyy_oOt7c&t=9s
 9,11.044,13.013,1.969,hard,hands,WS,측면 액션,고정,1x,포즈 전환 컷인,build,점프 시도,점프 낙하 효과음(추정),휙(점프) 효과음,https://www.youtube.com/watch?v=uukyy_oOt7c&t=11s
 10,13.013,14.481,1.468,hard,face_hands,CU,정면 클로즈업,고정,1x,타이핑 자막,build,삼킴 시도,BGM만,꿀꺽(삼킴 시도) 효과음,https://www.youtube.com/watch?v=uukyy_oOt7c&t=13s
 11,14.481,15.315,0.834,hard,face,ECU,정면 클로즈업,크래시 줌,1x,펀치인 흔들림,reaction,비명 리액션,비명 강조 효과음(추정),놀람 리액션 효과음,https://www.youtube.com/watch?v=uukyy_oOt7c&t=14s

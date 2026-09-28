@@ -1,0 +1,14 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,1.969,1.969,hard,text,insert,"정면(타이틀 카드, 인물 없음)",고정,1x,강조색(노랑) 텍스트,hook,제목 예열,BGM만,,https://www.youtube.com/watch?v=tbmehEfKnZQ&t=0s
+2,1.969,2.169,0.2,dissolve,object,insert,"정면(전환 이펙트, 인물 없음)",고정,1x,화이트 스모크 와이프,hook,,화이트 스모크 전환 효과음,whoosh,https://www.youtube.com/watch?v=tbmehEfKnZQ&t=1s
+3,2.169,3.77,1.602,hard,face_hands,MS,정면 캐릭터 클로즈업,고정,1x,제스처 애니메이션(양팔 들어올리기),setup,성씨 자랑,BGM만,,https://www.youtube.com/watch?v=tbmehEfKnZQ&t=2s
+4,3.77,4.771,1.001,hard,mixed,WS,정면 배경 투샷,고정,1x,서브타이틀 텍스트,setup,가족 소개,BGM만,,https://www.youtube.com/watch?v=tbmehEfKnZQ&t=3s
+5,4.771,5.939,1.168,jump,mixed,WS,정면 배경 투샷,고정,1x,자막 교체,setup,연습 지속,BGM만,,https://www.youtube.com/watch?v=tbmehEfKnZQ&t=4s
+6,5.939,8.242,2.302,hard,face_hands,MS,정면 캐릭터+말풍선,고정,1x,강조색 말풍선(주황),build,이유 나열,말풍선 팝업음,pop,https://www.youtube.com/watch?v=tbmehEfKnZQ&t=5s
+7,8.242,10.21,1.969,hard,face,CU,정면 리액션 클로즈업,편집 줌(펀치인),1x,느낌표 팝업,build,반문,놀람 스팅어,surprise_sting,https://www.youtube.com/watch?v=tbmehEfKnZQ&t=8s
+8,10.21,12.079,1.869,dissolve,face,CU,정면 리액션+이름표 리빌,고정,1x,이름표 파티클 리빌,reveal,이름표 공개,이름표 반짝임 SFX,sparkle,https://www.youtube.com/watch?v=tbmehEfKnZQ&t=10s
+9,12.079,14.381,2.302,hard,face,ECU,정면 익스트림 클로즈업,크래시 줌,1x,눈 확대 이펙트,reaction,놀람,놀람 들숨음,gasp,https://www.youtube.com/watch?v=tbmehEfKnZQ&t=12s
+10,14.381,16.049,1.668,jump,face,ECU,정면 익스트림 클로즈업,고정,1x,상태 라벨(감정 표기),tension,분노 표출,분노 강조 스팅어,anger,https://www.youtube.com/watch?v=tbmehEfKnZQ&t=14s
+11,16.049,17.618,1.568,hard,mixed,MS,정면 투샷,고정,1x,땀방울 이펙트,tension,정정 시도,땀 흘림 폴리,,https://www.youtube.com/watch?v=tbmehEfKnZQ&t=16s
+12,17.618,19.82,2.202,hard,mixed,MS,정면 투샷+말풍선,고정,1x,외국어+한국어 병기 말풍선,payoff,재반박,말풍선 팝업음(2),pop,https://www.youtube.com/watch?v=tbmehEfKnZQ&t=17s
+13,19.82,21.421,1.602,hard,mixed,MS,정면(아빠는 뒷모습 실루엣),고정,1x,후면 실루엣 처리,loop,엉뚱한 제안,엔딩 마무리 스팅어,outro,https://www.youtube.com/watch?v=tbmehEfKnZQ&t=19s

@@ -6,10 +6,10 @@
 5,4.204,6.106,1.902,hard,face,CU,정면 클로즈업,고정,1x,미세 팬 이동(호흡감),setup,특이 인물 소개,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=4s
 6,6.106,7.641,1.535,hard,mixed,insert,정면(실사 배경 인서트),고정,1x,실사 배경 합성+말풍선 그래픽,setup,방송 출연 공지,말풍선 팝업음,pop,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=6s
 7,7.641,9.61,1.969,hard,object,insert,정면 확대(SNS 아이콘 인서트),편집 줌(펀치인),1x,편집 펀치인 줌,setup,SNS 직접 작성,확대 강조음,zoom_ding,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=7s
-8,9.61,11.912,2.302,hard,face,CU,정면 클로즈업,고정,1x,선글라스 이모지 오버레이,build,의미심장한 태도,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=9s
+8,9.61,11.912,2.302,hard,mixed,CU,정면 클로즈업,고정,1x,배경 SNS 게시물 스크린샷 흐림 처리+전경 캐릭터 클로즈업 합성,build,의미심장한 태도,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=9s
 9,11.912,13.847,1.935,hard,face_hands,MCU,정면 상반신,고정,1x,소품(간식) 합성,build,트렌드 간식 언급,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=11s
 10,13.847,15.282,1.435,hard,face,CU,정면 클로즈업,고정,1x,미세 확대(호흡감),build,유행 여부 되묻기,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=13s
-11,15.282,17.15,1.869,hard,mixed,insert,"부감(음식 인서트), 캐릭터는 정면 소형 컷인",고정,1x,부감 인서트+말풍선 소형 컷인,build,다음 간식 예고,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=15s
+11,15.282,17.15,1.869,hard,mixed,MCU,"정면 상반신, 화면 좌상단에 구운 간식 이미지 소형 생각 말풍선 인서트",고정,1x,소형 생각 말풍선 인서트(부감 음식 사진)+캐릭터 상반신 클로즈업,build,다음 간식 예고,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=15s
 12,17.15,17.417,0.267,jump,face,CU,정면 클로즈업(점프컷),고정,1x,자막 순간 전환,tension,또 유행 지남,점프컷 강조음,stutter,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=17s
 13,17.417,19.219,1.802,hard,face_hands,MCU,측면 상반신(메모 확인),고정,1x,저채도 그레이딩(실내톤),tension,제3자 시점 등장,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=17s
 14,19.219,22.222,3.003,hard,text,insert,정면(텍스트/편지 인서트),고정,1x,텍스트 카드 롱홀드,tension,맥락 없는 언급 강조,종이 펼침음,paper,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=19s

@@ -1,0 +1,15 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,2.502,2.502,hard,text,insert,"정면(타이틀 카드, 인물 없음)",고정,1x,테두리 글로우 루프,hook,,배경음 인트로,,https://www.youtube.com/watch?v=wq253dARXUU&t=0s
+2,2.502,2.703,0.2,dissolve,object,insert,정면(전환 그래픽),고정,1x,스모크 와이프,hook,,스모크 와이프 훅 효과음,whoosh,https://www.youtube.com/watch?v=wq253dARXUU&t=2s
+3,2.703,3.904,1.201,hard,mixed,MS,정면,고정,1x,괄호 태그 오버레이,setup,사연 출처 안내,사연 태그 팝업음,pop,https://www.youtube.com/watch?v=wq253dARXUU&t=2s
+4,3.904,7.074,3.17,hard,face_hands,MS,정면,고정,1x,키워드 색상 강조 플래시,setup,거주지 소개,장면 전환 확인음,,https://www.youtube.com/watch?v=wq253dARXUU&t=3s
+5,7.074,9.109,2.035,hard,face_hands,MS,정면,고정,1x,눈 반짝임 이펙트,build,기대감 표현,BGM만,,https://www.youtube.com/watch?v=wq253dARXUU&t=7s
+6,9.109,10.978,1.869,hard,face_hands,MCU,정면,고정,1x,눈빛 음영 처리,tension,실망 반응,실망 리액션 스팅어,reaction_ding,https://www.youtube.com/watch?v=wq253dARXUU&t=9s
+7,10.978,13.18,2.202,hard,face_hands,MCU,정면(아웃포커스 배경),고정,1x,아웃포커스 배경+괄호 태그,tension,토라진 반응,BGM만,,https://www.youtube.com/watch?v=wq253dARXUU&t=10s
+8,13.18,16.383,3.203,hard,face_hands,MCU,정면,고정,1x,불꽃 배경 합성,tension,분노 표출,분노 강조 스팅어,anger_sting,https://www.youtube.com/watch?v=wq253dARXUU&t=13s
+9,16.383,18.685,2.302,hard,mixed,insert,탑다운,고정,1x,두 언어 병기 대형 텍스트,reveal,낱말 뜻 설명,정보 텍스트 등장음,info_pop,https://www.youtube.com/watch?v=wq253dARXUU&t=16s
+10,18.685,20.721,2.035,hard,face_hands,MCU,정면,고정,1x,입 벌림 애니메이션,build,시식 순간,BGM만,,https://www.youtube.com/watch?v=wq253dARXUU&t=18s
+11,20.721,21.989,1.268,hard,object,insert,탑다운,고정,1x,반짝임 스파클,reveal,내용물 의인화,반짝임 강조음,sparkle_chime,https://www.youtube.com/watch?v=wq253dARXUU&t=20s
+12,21.989,22.856,0.868,hard,face,ECU,정면(익스트림 클로즈업),편집 줌(펀치인),1x,펀치인 흔들림,payoff,,충격 스팅어+흔들림,shock_impact,https://www.youtube.com/watch?v=wq253dARXUU&t=21s
+13,22.856,24.892,2.035,hard,mixed,CU,정면(아웃포커스 배경),고정,1x,말풍선 텍스트 오버레이,reaction,배신감 절규,BGM만,scream_sting,https://www.youtube.com/watch?v=wq253dARXUU&t=22s
+14,24.892,27.027,2.135,hard,mixed,MS,정면,고정,1x,엔딩 전용 텍스트(내레이션 없음),payoff,관계 반전 공개,엔딩 마무리 잔향,warm_ding,https://www.youtube.com/watch?v=wq253dARXUU&t=24s

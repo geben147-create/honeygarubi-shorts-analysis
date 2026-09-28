@@ -1,0 +1,13 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,0.067,0.067,false,text,insert,"정면(타이틀 카드, 인물 없음)",고정,1x,강조색(노랑) 둘째 줄 텍스트,hook,,BGM만,,https://www.youtube.com/watch?v=H0Sxmhi-hoc&t=0s
+2,0.067,2.236,2.169,hard,text,insert,정면 텍스트 카드,고정,1x,강조색(노랑) 둘째 줄 유지,hook,정체 예고,BGM만,,https://www.youtube.com/watch?v=H0Sxmhi-hoc&t=0s
+3,2.236,2.436,0.2,dissolve,object,insert,정면(전환 그래픽),고정,1x,스모크 와이프,hook,,전환 강조 효과음,whoosh,https://www.youtube.com/watch?v=H0Sxmhi-hoc&t=2s
+4,2.436,4.204,1.768,hard,face_hands,MCU,정면 상반신(실내 배경),고정,1x,정지 일러스트에 미세한 편집 흔들림,setup,방문 도입,BGM+저작 폴리음,,https://www.youtube.com/watch?v=H0Sxmhi-hoc&t=2s
+5,4.204,6.84,2.636,hard,face_hands,CU,정면 클로즈업(반찬 그릇 인서트),고정,1x,홍조·반짝임 오버레이,setup,정체 공개,BGM만,,https://www.youtube.com/watch?v=H0Sxmhi-hoc&t=4s
+6,6.84,9.61,2.769,hard,object,insert,탑다운(그릇+반찬 인서트),고정,1x,편집 펀치인 줌,build,색깔 확인,확대 강조음,zoom_ding,https://www.youtube.com/watch?v=H0Sxmhi-hoc&t=6s
+7,9.61,11.144,1.535,hard,face_hands,MCU,정면 상반신(말풍선 인서트),고정,1x,말풍선 오버레이,build,안전 문의,말풍선 팝업음,pop,https://www.youtube.com/watch?v=H0Sxmhi-hoc&t=9s
+8,11.144,12.846,1.702,hard,face,CU,정면 클로즈업,고정,1x,없음,tension,직원 등장,신규 인물 등장 스팅어,character_sting,https://www.youtube.com/watch?v=H0Sxmhi-hoc&t=11s
+9,12.846,14.081,1.235,hard,face,CU,정면 클로즈업,고정,1x,땀방울 그래픽,tension,불안 반문,진땀 강조 효과음,sweat_drop,https://www.youtube.com/watch?v=H0Sxmhi-hoc&t=12s
+10,14.081,16.95,2.87,hard,mixed,MS,정면 투샷,고정,1x,"땀방울·홍조 오버레이, 공포 말풍선",reaction,공포 반응,공포 스팅어,shock_sting,https://www.youtube.com/watch?v=H0Sxmhi-hoc&t=14s
+11,16.95,20.053,3.103,hard,mixed,CU,정면 클로즈업(제3자 등장),고정,1x,없음,reveal,원인 설명,발소리 폴리,footstep,https://www.youtube.com/watch?v=H0Sxmhi-hoc&t=16s
+12,20.053,21.722,1.668,hard,mixed,MS,정면 투샷(엔딩),고정,1x,잔잔한 반짝임 강조,payoff,안도 마무리,안도 멜로디 스팅어,relief_sting,https://www.youtube.com/watch?v=H0Sxmhi-hoc&t=20s

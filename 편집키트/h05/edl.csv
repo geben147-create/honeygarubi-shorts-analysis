@@ -7,12 +7,12 @@
 6,4.872,6.44,1.568,hard,face,CU,정면 클로즈업,고정,1x,효과 없음(정지 클로즈업 유지),setup,규칙 안내 발화,"온셋 2회(1.28/s), faces.json 얼굴검출 0.88로 이 컷만 유독 높게 잡힘(캐릭터 얼굴이 화면 대부분 차지)",,https://www.youtube.com/watch?v=83kfn7B1ocE&t=4s
 7,6.44,9.109,2.669,hard,text,MS,정면 텍스트카드,고정,1x(자막 순차 등장),텍스트 순차 등장(타이핑풍),build,규칙 2개 요약,"온셋 3회(1.12/s), 가장 낮은 온셋 밀도 — 정보 읽기용 정적 구간",chime_pop,https://www.youtube.com/watch?v=83kfn7B1ocE&t=6s
 8,9.109,11.144,2.035,hard,face_hands,MCU,정면 합성 인서트,고정,1x,게임 UI 밈 합성,build,유머 드립(과장된 별명),온셋 5회(2.46/s),drone_hit,https://www.youtube.com/watch?v=83kfn7B1ocE&t=9s
-9,11.144,12.779,1.635,hard,face_hands,MCU,정면 투샷,고정,1x,효과 없음(투샷 정적 유지),build,반전 예고(적응 성공),온셋 6회(3.75/s),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=11s
+9,11.144,12.779,1.635,hard,face_hands,MCU,"정면, 이중 노출(동일 캐릭터 두 크기)",고정,1x,효과 없음(정적 유지),build,반전 예고(적응 성공),온셋 6회(3.75/s),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=11s
 10,12.779,14.681,1.902,jump,face,CU,정면 클로즈업,고정,1x,RPG 잡체인지 문구 패러디,build,유머 결론(잡체인지),온셋 6회(3.6/s),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=12s
 11,14.681,16.55,1.869,jump,face,ECU,정면 초근접,편집 줌(펀치인),1x,펀치인 확대,tension,클리프행어,온셋 2회(1.07/s)로 감소 — 긴장감 조성용 정적 구간,riser,https://www.youtube.com/watch?v=83kfn7B1ocE&t=14s
 12,16.55,18.151,1.602,hard,face,CU,정면 신규인물 소개,고정,1x,출생연도 스티커 삽입,tension,신규인물 소개,온셋 6회(3.75/s 근방),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=16s
-13,18.151,19.553,1.401,hard,face_hands,MCU,측면 실루엣,고정,1x,역광 실루엣 처리,tension,협상 시도 대사,온셋 5회(3.57/s),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=18s
-14,19.553,21.588,2.035,flash,mixed,insert,정면 리액션 합성,고정,1x,"리액션 밈 스크린샷 합성, 화염 배경",reveal,반전(규칙 무력화),"온셋 10회(4.91/s)로 전체 최고밀도, hf_ratio_4k 스파이크 0.93",impact_low,https://www.youtube.com/watch?v=83kfn7B1ocE&t=19s
+13,18.151,19.553,1.401,hard,face_hands,MCU,"정면, 전경 실루엣 오버레이",고정,1x,전경 검은 실루엣 오버레이,tension,협상 시도 대사,온셋 5회(3.57/s),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=18s
+14,19.553,21.588,2.035,flash,mixed,insert,정면 리액션 합성,고정,1x,"리액션 밈 스크린샷 합성, 화염 배경",reveal,반전(규칙 무력화),"온셋 10회로 21컷 중 원시 타격 횟수 최다(밀도 4.91/s, 초당 밀도 자체 최고는 컷#4의 5.99/s), hf_ratio_4k는 이 컷 평균 0.033으로 낮고 전체 최고 스파이크(0.93)는 컷#5 구간",impact_low,https://www.youtube.com/watch?v=83kfn7B1ocE&t=19s
 15,21.588,23.123,1.535,hard,face_hands,MCU,정면 부엌 배경,고정,1x,손 뻗는 동작 루프 강조,reveal,행동 묘사(장난감 뺏기),온셋 6회(3.91/s),comic_grab,https://www.youtube.com/watch?v=83kfn7B1ocE&t=21s
 16,23.123,24.291,1.168,hard,face,CU,정면 클로즈업,고정,1x,효과 없음(정적 클로즈업 유지),reaction,애원 대사 1회차,온셋 3회(2.57/s),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=23s
 17,24.291,25.459,1.168,jump,face,CU,정면 클로즈업,고정,1x,소용돌이눈 이모지,reaction,애원 대사 2회차(강조),온셋 2회(1.71/s),sniffle,https://www.youtube.com/watch?v=83kfn7B1ocE&t=24s
