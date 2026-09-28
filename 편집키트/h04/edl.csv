@@ -1,0 +1,15 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,0.067,0.067,false,text,WS,정면(텍스트 카드),고정,1x,"실질적으로 컷2와 동일한 화면, 컷 검출 임계값 오류로 분리됨",broll,카드 문구 시작,BGM만,,https://www.youtube.com/watch?v=UYuDRgl2BtA&t=0s
+2,0.067,2.302,2.236,hard,text,WS,정면(텍스트 카드),고정,1x,"카드형 인트로 프레임, 그림자 프로필 아이콘",hook,헤드라인+프로필+날짜,정적(대사 시작 전),,https://www.youtube.com/watch?v=UYuDRgl2BtA&t=0s
+3,2.302,2.502,0.2,dissolve,object,insert,정면(전환 그래픽),고정,1x,"스모크 와이프(연기 전환), 이 채널 시그니처 전환",hook,,화이트노이즈 스침,스모크 와이프 훅,https://www.youtube.com/watch?v=UYuDRgl2BtA&t=2s
+4,2.502,5.472,2.97,hard,face_hands,MS,정면,편집 줌(펀치인),1x,정지 일러스트에 펀치인 줌으로 움직임 부여,setup,여행 준비 시작,BGM만,,https://www.youtube.com/watch?v=UYuDRgl2BtA&t=2s
+5,5.472,6.94,1.468,hard,face_hands,MCU,정면,고정,1x,표정 클로즈업 전환,setup,짐 챙기기 시작,BGM만,,https://www.youtube.com/watch?v=UYuDRgl2BtA&t=5s
+6,6.94,8.141,1.201,hard,face,CU,정면,고정,1x,말풍선 팝업 애니메이션,build,다 가져갈 거야(떼쓰기),강조 스팅어,말풍선 팝업음,https://www.youtube.com/watch?v=UYuDRgl2BtA&t=6s
+7,8.141,9.91,1.768,jump,face,ECU,정면,편집 줌(펀치인),1x,동일 구도 2단 펀치인 줌(컷6→컷7),tension,말을 안 듣는 바람에,긴장 스팅어,,https://www.youtube.com/watch?v=UYuDRgl2BtA&t=8s
+8,9.91,11.612,1.702,hard,face,CU,정면,고정,1x,분노/단호함 표시선(블루 셰이딩),tension,엄마의 훈육,긴장 스팅어,,https://www.youtube.com/watch?v=UYuDRgl2BtA&t=9s
+9,11.612,13.647,2.035,hard,mixed,insert,"정면(스마트폰/메신저 화면 인서트, 배경 블러)",고정,1x,배경 블러 + 이중언어 자막 인서트 + 아빠 리액션 미니 인서트,reveal,여행은 둘이서만(이중언어 표기),반전 스팅어,이중자막 등장음,https://www.youtube.com/watch?v=UYuDRgl2BtA&t=11s
+10,13.647,14.781,1.134,hard,face,CU,정면,고정,1x,식은땀 이펙트,reaction,당황한 아빠,"BGM만(내레이션만 유지, 효과음 없음)",,https://www.youtube.com/watch?v=UYuDRgl2BtA&t=13s
+11,14.781,16.016,1.235,hard,face,ECU,정면,고정,1x,눈물 방울 애니메이션,reveal,펑펑 우는 딸,울음 사운드,,https://www.youtube.com/watch?v=UYuDRgl2BtA&t=14s
+12,16.016,17.885,1.869,jump,face,CU,정면,고정,1x,자막 교체(표정은 유지),payoff,내가 지킬게(다짐),BGM만(울음소리 여운만 지속),,https://www.youtube.com/watch?v=UYuDRgl2BtA&t=16s
+13,17.885,20.921,3.036,hard,face_hands,MS,정면,고정,1x,"캡션 타이핑 애니메이션 3회 교체, 오렌지 톤 라운드 프레임",payoff,당연히 여행 멤버(해설 3단),따뜻한 멜로디 전환,사진 확대 효과음,https://www.youtube.com/watch?v=UYuDRgl2BtA&t=17s
+14,20.921,23.657,2.736,hard,mixed,MS,정면,고정,1x,"컷 내부에 자동 검출되지 않은 미세 전환 포함(가족사진→아빠 얼굴, 약 22.3초 지점)",payoff,고마우면서도 어이없음,허탈한 웃음 스팅어,한숨 사운드,https://www.youtube.com/watch?v=UYuDRgl2BtA&t=20s

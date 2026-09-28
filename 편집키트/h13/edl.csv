@@ -1,0 +1,15 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,0.067,0.067,false,text,insert,정면 텍스트 카드,고정,1x,타이틀 카드 깜빡임(검출 노이즈),hook,,BGM만,,https://www.youtube.com/watch?v=ppSJE_38Npw&t=0s
+2,0.067,2.603,2.536,hard,text,insert,정면 텍스트 카드,고정,1x,타이틀 카드 정지 유지,hook,제목 훅 문구,BGM만,,https://www.youtube.com/watch?v=ppSJE_38Npw&t=0s
+3,2.603,2.803,0.2,dissolve,object,insert,정면 이펙트 오버레이,고정,1x,스모크 와이프 전환(화이트 아웃),setup,,전환 스침음(추정),스모크 와이프,https://www.youtube.com/watch?v=ppSJE_38Npw&t=2s
+4,2.803,4.905,2.102,hard,face,MCU,정면,고정,1x,말풍선 자막 순차 타이핑,setup,도입 내레이션,도입 내레이션 음성(onsets_per_s 3.81),,https://www.youtube.com/watch?v=ppSJE_38Npw&t=2s
+5,4.905,6.206,1.301,hard,face,CU,정면 POV,고정,1x,"자막 타이핑, 배경 흐림 없음",setup,회상 도입,회상 전환 내레이션(onsets_per_s 3.84),,https://www.youtube.com/watch?v=ppSJE_38Npw&t=4s
+6,6.206,7.541,1.335,hard,face,MCU,정면,편집 줌(펀치인),1x,포켓몬 도감 배경 삽입,build,친구 주장 도입,주장 대사 내레이션,,https://www.youtube.com/watch?v=ppSJE_38Npw&t=6s
+7,7.541,8.642,1.101,jump,face,CU,정면 클로즈업,편집 줌(펀치인),1x,눈물 이펙트 스티커,build,친구 주장 강조,고역비 최고 구간(hf_ratio_4k 0.174),눈물 스티커 등장음(추정),https://www.youtube.com/watch?v=ppSJE_38Npw&t=7s
+8,8.642,10.043,1.401,hard,face,CU,정면,고정,1x,말풍선(속마음) 스티커 삽입,reaction,반신반의 반응,당혹 리액션 대사,,https://www.youtube.com/watch?v=ppSJE_38Npw&t=8s
+9,10.043,15.182,5.138,hard,mixed,insert,정면 화면 인서트,편집 줌(펀치인),1x,충격 스피드선+크악 스티커 2단 강조,reveal,게임 반전 고지,타이핑 자막+폭발 강조음(영상 내 온셋 최다 13개),폭발 스티커 효과음,https://www.youtube.com/watch?v=ppSJE_38Npw&t=10s
+10,15.182,16.083,0.901,hard,face_hands,MCU,정면,고정,1x,속마음 말풍선 이중 자막,tension,겉끄덕 속불신,짧은 리액션 대사,,https://www.youtube.com/watch?v=ppSJE_38Npw&t=15s
+11,16.083,17.417,1.335,hard,face,CU,정면 POV,고정,1x,속마음 말풍선 유지,tension,불신 재확인,짧은 리액션 대사,,https://www.youtube.com/watch?v=ppSJE_38Npw&t=16s
+12,17.417,19.52,2.102,hard,face,MCU,정면,고정,1x,"로딩바 스티커, 노트북 인서트",rehook,직접 검색 반전,놀람 대사(onsets_per_s 2.85),,https://www.youtube.com/watch?v=ppSJE_38Npw&t=17s
+13,19.52,21.955,2.436,hard,text,insert,정면 텍스트 카드,고정,1x,위키 인용 박스+형광펜 강조,payoff,확률 근거 제시,근거 제시 내레이션(onsets_per_s 2.87),형광펜 강조 효과음(추정),https://www.youtube.com/watch?v=ppSJE_38Npw&t=19s
+14,21.955,24.191,2.236,jump,mixed,MCU,정면,고정,1x,"눈물 스티커, 엔딩 내레이션 자막",payoff,충격 결론,엔딩 울먹 리액션 대사(onsets_per_s 2.68),눈물 스티커 등장음(추정),https://www.youtube.com/watch?v=ppSJE_38Npw&t=21s

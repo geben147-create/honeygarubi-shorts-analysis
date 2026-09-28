@@ -1,0 +1,15 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,2.369,2.369,hard,text,WS,"정면(그래픽 카드, 별도 카메라 앵글 없음)",고정,1x,SNS 포스트 UI 프레임(흰 비네트 테두리),hook,포스트 도입,BGM만,,https://www.youtube.com/watch?v=yHUQ74Mth_s&t=0s
+2,2.369,2.569,0.2,dissolve,object,WS,정면 · 매크로(연기 텍스처 클로즈업 전환),고정,1x,스모크 와이프(시그니처 전환),setup,,전환 효과음(스침음 추정),whoosh,https://www.youtube.com/watch?v=yHUQ74Mth_s&t=2s
+3,2.569,4.104,1.535,hard,mixed,MS,정면 · 부감(원경 풍경컷),고정,1x,"스모크 리빌(연기 걷힘 연출), 원경 풍경 일러스트",setup,작성자 소개,BGM만,,https://www.youtube.com/watch?v=yHUQ74Mth_s&t=2s
+4,4.104,5.405,1.301,hard,face,CU,정면(캐릭터 소개 카드),고정,1x,캐릭터 이름표(하단 라벨),setup,상사 소개,등장 스팅어,,https://www.youtube.com/watch?v=yHUQ74Mth_s&t=4s
+5,5.405,7.307,1.902,hard,face,ECU,"정면(오버더숄더, 전경 블러)",고정,1x,"전경 블러(신입 뒷모습), 홍조 이펙트",tension,질책 시작,대사 강조음,,https://www.youtube.com/watch?v=yHUQ74Mth_s&t=5s
+6,7.307,10.744,3.437,hard,face,CU,정면(눈물 맺힌 클로즈업),고정,1x(대사 길이에 맞춰 컷 길이 연장),"눈물 이펙트, 볼 홍조",reveal,추수일 해명,떨리는 보이스톤,,https://www.youtube.com/watch?v=yHUQ74Mth_s&t=7s
+7,10.744,13.313,2.569,hard,face,ECU,정면(격앙된 클로즈업),고정,1x,"일본어 말풍선 서브캡션, 흔들림 이펙트",tension,재반박,격앙 강조음,,https://www.youtube.com/watch?v=yHUQ74Mth_s&t=10s
+8,13.313,14.514,1.201,hard,face,CU,정면(당황한 클로즈업),고정,1x,캐릭터 이름표+소속 라벨,reaction,롤콜 시작,확인 스팅어,,https://www.youtube.com/watch?v=yHUQ74Mth_s&t=13s
+9,14.514,15.582,1.068,hard,face,CU,정면(놀란 클로즈업),고정,1x,캐릭터 이름표,reaction,팀장 반응,놀람 스팅어,,https://www.youtube.com/watch?v=yHUQ74Mth_s&t=14s
+10,15.582,16.783,1.201,hard,face,ECU,"정면(부장 반응, 클로즈업)",고정,1x,"캐릭터 이름표, 반응 강도 상승 연출",reaction,부장 반응,놀람 스팅어(강도 상승),,https://www.youtube.com/watch?v=yHUQ74Mth_s&t=15s
+11,16.783,18.552,1.768,hard,face,ECU,"정면(제3자 반응, 클로즈업)",고정,1x,"땀방울 이펙트, 캐릭터 이름표",build,제3자 반응,놀람 스팅어(최대 강도),,https://www.youtube.com/watch?v=yHUQ74Mth_s&t=16s
+12,18.552,20.187,1.635,hard,face,ECU,"정면(고양이 반응, 클로즈업)",고정,1x,"땀방울 이펙트, 캐릭터 이름표(현지묘 표기)",payoff,고양이 반응,동물 울음 SFX,meow,https://www.youtube.com/watch?v=yHUQ74Mth_s&t=18s
+13,20.187,21.722,1.535,hard,person,CU,"측면(실사 인물 반응 사진, 정면 혼합)",고정,1x,실사 리액션 이미지 삽입(장르 브레이크),reaction,집단 경악,정적(내레이션만),,https://www.youtube.com/watch?v=yHUQ74Mth_s&t=20s
+14,21.722,23.991,2.269,hard,mixed,CU,정면(엔딩 클로즈업+각주 자막),고정,1x,"각주 자막(팩트체크), 상단 타이틀바 유지",loop,팩트+엔딩멘트,엔딩 캡션 팝 사운드,,https://www.youtube.com/watch?v=yHUQ74Mth_s&t=21s

@@ -1,0 +1,22 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,1.869,1.869,hard,text,WS,정면 타이틀카드,고정,1x,흰 스모크 확산 애니메이션,hook,부제 소개,"잔잔한 BGM 인트로, 온셋 6회(3.21/s)로 도입부 리듬 형성",,https://www.youtube.com/watch?v=83kfn7B1ocE&t=0s
+2,1.869,2.069,0.2,dissolve,text,insert,정면 와이프전환,고정,1x,화이트 스모크 와이프 전환,hook,,"훗 소리(whoosh) 스팅어, hf_ratio_4k 0.253으로 급상승",whoosh_wipe,https://www.youtube.com/watch?v=83kfn7B1ocE&t=1s
+3,2.069,2.269,0.2,dissolve,object,WS,정면 배경 리빌,고정,1x,스모크 와이프 마무리,setup,시간 설정,동일 와이프 스팅어의 꼬리 부분,,https://www.youtube.com/watch?v=83kfn7B1ocE&t=2s
+4,2.269,3.27,1.001,hard,face_hands,MCU,정면 캐릭터 등장,편집 줌(펀치인),1x,이름표 스티커 삽입,setup,인물 소개,온셋 6회(5.99/s)로 등장 강조,pop_in,https://www.youtube.com/watch?v=83kfn7B1ocE&t=2s
+5,3.27,4.872,1.602,hard,mixed,insert,정면 인서트 삽입,고정,1x,스톡 인서트 그래픽 오버레이,setup,장소 전환(어린이집),온셋 5회(3.12/s),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=3s
+6,4.872,6.44,1.568,hard,face,CU,정면 클로즈업,고정,1x,효과 없음(정지 클로즈업 유지),setup,규칙 안내 발화,"온셋 2회(1.28/s), faces.json 얼굴검출 0.88로 이 컷만 유독 높게 잡힘(캐릭터 얼굴이 화면 대부분 차지)",,https://www.youtube.com/watch?v=83kfn7B1ocE&t=4s
+7,6.44,9.109,2.669,hard,text,MS,정면 텍스트카드,고정,1x(자막 순차 등장),텍스트 순차 등장(타이핑풍),build,규칙 2개 요약,"온셋 3회(1.12/s), 가장 낮은 온셋 밀도 — 정보 읽기용 정적 구간",chime_pop,https://www.youtube.com/watch?v=83kfn7B1ocE&t=6s
+8,9.109,11.144,2.035,hard,face_hands,MCU,정면 합성 인서트,고정,1x,게임 UI 밈 합성,build,유머 드립(과장된 별명),온셋 5회(2.46/s),drone_hit,https://www.youtube.com/watch?v=83kfn7B1ocE&t=9s
+9,11.144,12.779,1.635,hard,face_hands,MCU,정면 투샷,고정,1x,효과 없음(투샷 정적 유지),build,반전 예고(적응 성공),온셋 6회(3.75/s),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=11s
+10,12.779,14.681,1.902,jump,face,CU,정면 클로즈업,고정,1x,RPG 잡체인지 문구 패러디,build,유머 결론(잡체인지),온셋 6회(3.6/s),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=12s
+11,14.681,16.55,1.869,jump,face,ECU,정면 초근접,편집 줌(펀치인),1x,펀치인 확대,tension,클리프행어,온셋 2회(1.07/s)로 감소 — 긴장감 조성용 정적 구간,riser,https://www.youtube.com/watch?v=83kfn7B1ocE&t=14s
+12,16.55,18.151,1.602,hard,face,CU,정면 신규인물 소개,고정,1x,출생연도 스티커 삽입,tension,신규인물 소개,온셋 6회(3.75/s 근방),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=16s
+13,18.151,19.553,1.401,hard,face_hands,MCU,측면 실루엣,고정,1x,역광 실루엣 처리,tension,협상 시도 대사,온셋 5회(3.57/s),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=18s
+14,19.553,21.588,2.035,flash,mixed,insert,정면 리액션 합성,고정,1x,"리액션 밈 스크린샷 합성, 화염 배경",reveal,반전(규칙 무력화),"온셋 10회(4.91/s)로 전체 최고밀도, hf_ratio_4k 스파이크 0.93",impact_low,https://www.youtube.com/watch?v=83kfn7B1ocE&t=19s
+15,21.588,23.123,1.535,hard,face_hands,MCU,정면 부엌 배경,고정,1x,손 뻗는 동작 루프 강조,reveal,행동 묘사(장난감 뺏기),온셋 6회(3.91/s),comic_grab,https://www.youtube.com/watch?v=83kfn7B1ocE&t=21s
+16,23.123,24.291,1.168,hard,face,CU,정면 클로즈업,고정,1x,효과 없음(정적 클로즈업 유지),reaction,애원 대사 1회차,온셋 3회(2.57/s),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=23s
+17,24.291,25.459,1.168,jump,face,CU,정면 클로즈업,고정,1x,소용돌이눈 이모지,reaction,애원 대사 2회차(강조),온셋 2회(1.71/s),sniffle,https://www.youtube.com/watch?v=83kfn7B1ocE&t=24s
+18,25.459,27.127,1.668,jump,face,CU,정면 클로즈업,고정,1x,소용돌이눈 유지,reaction,상황 요약 내레이션,온셋 6회(3.6/s),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=25s
+19,27.127,28.362,1.235,hard,face_hands,MCU,정면 백허그 구도,고정,1x,포옹 모션(살짝 흔들림),rehook,공감 코멘트 1,온셋 3회(2.43/s),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=27s
+20,28.362,30.23,1.869,match,face_hands,MCU,정면 슬라이드인,팬,1x,캐릭터 슬라이드인 합성,rehook,공감 코멘트 2(양가감정),온셋 4회(2.14/s),,https://www.youtube.com/watch?v=83kfn7B1ocE&t=28s
+21,30.23,31.899,1.668,hard,face_hands,MS,정면 3인 앙상블,고정,1x,캐릭터 3인 정렬 합성,loop,교훈형 엔딩 멘트,온셋 2회(1.2/s)로 잦아들며 마무리,soft_chime,https://www.youtube.com/watch?v=83kfn7B1ocE&t=30s

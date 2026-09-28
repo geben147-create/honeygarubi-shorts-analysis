@@ -1,0 +1,16 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,1.602,1.602,hard,hands,WS,"정면(전신 라벨 소개, 서서히 푸시인)",고정→푸시인,1x,"이마 스티커 라벨 합성, 카메라 서서히 푸시인",hook,주제 제시+라벨 소개,인트로 징글 다발(온셋 밀도 최고),pop,https://www.youtube.com/watch?v=0z65nHls9ww&t=0s
+2,1.602,3.704,2.102,dissolve,face,CU,정면(스모크 와이프 후 크래시 줌),크래시 줌 인 후 풀아웃,1x,"스모크 와이프 전환, 크래시 줌",setup,장소 전환+대화 시작 안내,와이프 훅 효과음,whoosh,https://www.youtube.com/watch?v=0z65nHls9ww&t=1s
+3,3.704,5.172,1.468,hard,face,ECU,정면(클로즈업),고정,1x,자막 순차 타이핑,setup,질문 제시,BGM만,,https://www.youtube.com/watch?v=0z65nHls9ww&t=3s
+4,5.172,6.64,1.468,hard,face_hands,MCU,정면(방사선 버스트 배경),고정,1x,방사선 버스트 배경+물음표 말풍선,build,고민 포즈,BGM만,,https://www.youtube.com/watch?v=0z65nHls9ww&t=5s
+5,6.64,9.142,2.502,hard,mixed,MS,측면(엄마 뒷모습 리액션 인서트),고정,1x,별빛 파티클 오버레이,reveal,딸 답변 완성(성격 묘사),반짝임 강조음,sparkle,https://www.youtube.com/watch?v=0z65nHls9ww&t=6s
+6,9.142,10.711,1.568,hard,face,ECU,정면(충격 리액션 클로즈업),고정,1x,"눈 크게 뜨는 표정 전환, 의성어 캡션 강조",reaction,놀람 의성어,경악 강조음,gasp,https://www.youtube.com/watch?v=0z65nHls9ww&t=9s
+7,10.711,12.946,2.236,jump,face,CU,정면(같은 구도 표정 변화),고정,1x,자막 순차 교체,reaction,성숙함에 대한 감탄,BGM만,,https://www.youtube.com/watch?v=0z65nHls9ww&t=10s
+8,12.946,15.949,3.003,hard,face,CU,정면(신규 인물 등장),고정,1x(자막 순차 타이핑),괄호 메타코멘트+일본어 원문/한국어 이중 자막,build,아들 등장+되묻기,캐릭터 등장 스팅,sting,https://www.youtube.com/watch?v=0z65nHls9ww&t=12s
+9,15.949,17.15,1.201,jump,mixed,MCU,정면(기대감 리액션),고정,1x,전경 아웃포커스 배치로 심도감 연출,build,기대하며 되묻는 모습,기대감 상승음,riser,https://www.youtube.com/watch?v=0z65nHls9ww&t=15s
+10,17.15,20.587,3.437,hard,face,CU,정면(망설임→답변 클로즈업),고정,1x(자막 순차 타이핑),괄호 메타코멘트+마스코트 아이콘,reveal,정석적인 답변(성격 묘사),BGM만,,https://www.youtube.com/watch?v=0z65nHls9ww&t=17s
+11,20.587,23.857,3.27,hard,face_hands,MCU,정면(듀오톤 필터 진지모드),고정,1x,"듀오톤 블루 컬러그레이딩+지그재그 배경, 컷 내 배경색 2단 전환",tension,정정 요구(그게 아니라는 취지),정색 전환 스팅,riser,https://www.youtube.com/watch?v=0z65nHls9ww&t=20s
+12,23.857,25.959,2.102,flash,object,insert,"정면(인서트 일러스트, 카메라앵글 개념 없음)",고정(버스트 그래픽 합성),1x,패러디 크리처 인서트+방사선 버스트+이중 자막,reveal,반전 답변(속성 분류 드립),리빌 강조음,impact,https://www.youtube.com/watch?v=0z65nHls9ww&t=23s
+13,25.959,26.727,0.767,flash,face,ECU,정면(밈 필터 리액션),고정,1x,"밈 선글라스 필터, 배경 잔상",reaction,과장 충격 리액션,밈 리액션 강조음,shock,https://www.youtube.com/watch?v=0z65nHls9ww&t=25s
+14,26.727,27.895,1.168,hard,mixed,CU,정면(리캡 텍스트 카드),고정,1x,텍스트 카드 합성,payoff,두 자녀 답변 대비 리캡,BGM만,,https://www.youtube.com/watch?v=0z65nHls9ww&t=26s
+15,27.895,30.097,2.202,dissolve,mixed,insert,정면(크리처 리빌 후 캐릭터 디졸브),고정→디졸브,1x,크리처 인서트+엔딩 디졸브,loop,2차 반전+엔딩 루프,BGM만,fanfare,https://www.youtube.com/watch?v=0z65nHls9ww&t=27s

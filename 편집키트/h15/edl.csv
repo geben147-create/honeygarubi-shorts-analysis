@@ -1,0 +1,14 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,1.969,1.969,hard,text,insert,정면 텍스트 카드,고정,1x,"정지 카드 유지, 배경 하이라이트 서서히 확산",hook,결과 예고,반짝임 강조음(추정),,https://www.youtube.com/watch?v=Cqbuxwekz0Q&t=0s
+2,1.969,2.169,0.2,dissolve,object,insert,정면 전환 인서트,고정,1x,스모크 와이프 전환,hook,,화이트 와이프 전환음(추정),화이트 와이프,https://www.youtube.com/watch?v=Cqbuxwekz0Q&t=1s
+3,2.169,3.604,1.435,hard,face,CU,정면 클로즈업,고정,1x,자막 타이핑 애니메이션,setup,신분 소개+몰입,BGM만,,https://www.youtube.com/watch?v=Cqbuxwekz0Q&t=2s
+4,3.604,5.539,1.935,hard,face,MCU,정면,고정,1x,자막 타이핑 애니메이션,setup,주변 시선 포착,BGM만,,https://www.youtube.com/watch?v=Cqbuxwekz0Q&t=3s
+5,5.539,6.54,1.001,hard,face_hands,ECU,정면 매크로,푸시인,1x,카메라 푸시인,build,메모 확인,BGM만,,https://www.youtube.com/watch?v=Cqbuxwekz0Q&t=5s
+6,6.54,8.442,1.902,hard,object,insert,탑다운,편집 줌(펀치인),1x,펀치인 확대,tension,응원 문구+낯선 표현,종이 넘기는 소리(추정),,https://www.youtube.com/watch?v=Cqbuxwekz0Q&t=6s
+7,8.442,9.943,1.502,jump,object,insert,탑다운,편집 줌(펀치인),1x,자막 타이핑 애니메이션,tension,의문 제기,BGM만,,https://www.youtube.com/watch?v=Cqbuxwekz0Q&t=8s
+8,9.943,12.913,2.97,hard,face_hands,MS,하이앵글,고정,1x,소형 텍스트 인서트,tension,온라인 질문,타건음(추정),타건음,https://www.youtube.com/watch?v=Cqbuxwekz0Q&t=9s
+9,12.913,16.416,3.504,hard,face,CU,정면,고정,1x,자막 타이핑 애니메이션,reveal,답변자 1호 등장,알림 팝업음(추정),알림음,https://www.youtube.com/watch?v=Cqbuxwekz0Q&t=12s
+10,16.416,18.886,2.469,hard,text,insert,정면,편집 줌(펀치인),1x,"스크린샷 삽입, 펀치인",reveal,답변자 2호(저자 자처),화면 전환음(추정),셔터음,https://www.youtube.com/watch?v=Cqbuxwekz0Q&t=16s
+11,18.886,21.321,2.436,hard,object,MS,로우앵글,고정,1x,실사 이미지 합성,reveal,답변자 3호(코스튬 자처),등장 강조음(추정),등장효과음,https://www.youtube.com/watch?v=Cqbuxwekz0Q&t=18s
+12,21.321,24.625,3.303,hard,mixed,insert,정면,고정,1x,카운트업 모션그래픽,payoff,화제성 반응+수치 상승,하트 팝업음(추정),하트 팝업음,https://www.youtube.com/watch?v=Cqbuxwekz0Q&t=21s
+13,24.625,26.66,2.035,hard,face,CU,정면 클로즈업,고정,1x,캐릭터 동작 애니메이션 활발(모션 수치 최고 수준),loop,엔딩 다짐+제목 재언급,BGM만,,https://www.youtube.com/watch?v=Cqbuxwekz0Q&t=24s

@@ -1,0 +1,15 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,0.067,0.067,false,text,insert,정면 텍스트 카드,고정,1x,고정 문구 바+비네트 광원,hook,,"BGM만(거의 무음, 피크 -41dB)",,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=0s
+2,0.067,2.369,2.302,hard,text,insert,정면 텍스트 카드,고정,1x,형광초록 강조색 텍스트,hook,국가+낯선 숨김요소,BGM만(온셋 밀도 2.61/s로 잔잔한 인트로 리듬),,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=0s
+3,2.369,2.569,0.2,dissolve,object,insert,정면 화면 전환,고정,1x,화이트 와이프(스모크 와이프),hook,,"전환 효과음(고역비 상승, hf_ratio 0.19대)",whoosh_transition,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=2s
+4,2.569,3.67,1.101,hard,face_hands,MCU,정면,고정,1x,사물 이름표 라벨 태그,setup,작동 시작 알림,전원 알림음(온셋 밀도 3.63/s),power_on_beep,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=2s
+5,3.67,5.272,1.602,hard,hands,insert,매크로 인서트,편집 줌(펀치인),1x,편집 펀치인,setup,방금 막 켰음,조작 효과음(온셋 밀도 1.87/s),,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=3s
+6,5.272,6.807,1.535,hard,face_hands,MS,후면 뒷모습(측면 구도),고정,1x,뒷모습 구도로 표정을 가리는 연출,build,평소와 다름,"호출 강조음(온셋 밀도 4.56/s, 이 영상 전체 최고치)",,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=5s
+7,6.807,8.842,2.035,jump,face_hands,MCU,정면,편집 줌(펀치인),1x,말풍선 이름표 라벨,build,말을 걸어옴,발화 시작음(온셋 밀도 2.95/s),,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=6s
+8,8.842,10.577,1.735,hard,face,CU,정면 클로즈업 리액션,편집 줌(펀치인),1x,편집 펀치인 클로즈업,reaction,낯선 대사에 당황,당황 스팅어(온셋 밀도 1.73/s),confusion_pop,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=8s
+9,10.577,12.646,2.069,hard,face_hands,MS,정면(포옹 구도),고정,1x,포옹 구도 정적 연출,build,오래전 회고,차분한 배경음(온셋 밀도 1.93/s),,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=10s
+10,12.646,14.014,1.368,hard,face_hands,MCU,정면(기기 위 걸터앉음),고정,1x,완급 조절용 정적 컷,build,시간 경과 강조,여운음(온셋 밀도 0.73/s로 전체 중 가장 낮음),,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=12s
+11,14.014,16.483,2.469,flash,mixed,insert,로우앵글 실루엣 인서트,크래시 줌,1x,크래시 줌+이질적 스톡 합성,tension,의미심장한 감사 인사,긴장 드론(온셋 밀도 1.62/s이지만 저음역 강조로 체감 긴장감 높음),tension_drone,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=14s
+12,16.483,18.418,1.935,hard,face,CU,정면 클로즈업 리액션,편집 줌(펀치인),1x,편집 펀치인+어두운 배경 처리,reveal,이별 암시 공포,경악 스팅어(온셋 밀도 3.1/s),shock_stinger,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=16s
+13,18.418,19.987,1.568,hard,face_hands,MCU,정면(포옹 클로즈업),고정,1x,포옹 클로즈업 감정 전환,payoff,공포에서 웃음으로,훈훈 전환벨(온셋 밀도 3.19/s),warm_chime,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=18s
+14,19.987,21.989,2.002,hard,mixed,CU,정면(문구카드→클로즈업),고정,1x,실화 후기 카드+엔딩 리액션(컷 내부 미세 전환),cta,실화 인증+구독 유도,엔딩 징글(온셋 밀도 2.0/s),,https://www.youtube.com/watch?v=tHQLinNl_Cc&t=19s

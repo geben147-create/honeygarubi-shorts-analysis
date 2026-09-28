@@ -1,0 +1,17 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,2.269,2.269,hard,text,insert,정면 텍스트 카드,고정,1x,"정지 카드, 애니메이션 없음",hook,제목 예고(반복 노출),BGM만,,https://www.youtube.com/watch?v=utvZtdMiJDY&t=0s
+2,2.269,2.469,0.2,dissolve,object,insert,정면 클로즈업 스모크,고정,1x,스모크 와이프 전환,hook,,전환 효과음(휙),smoke whoosh,https://www.youtube.com/watch?v=utvZtdMiJDY&t=2s
+3,2.469,3.704,1.235,hard,face_hands,MS,측면 뒷모습 인서트,고정,1x,"실사 배경 위 캐릭터 합성, 스티커 팝업 애니메이션",setup,동행·처음 경험 예고,잔잔한 배경음,,https://www.youtube.com/watch?v=utvZtdMiJDY&t=2s
+4,3.704,4.838,1.134,match,mixed,insert,정면 확대 인서트,편집 줌,1x,"펀치인 확대, 정보성 캡션 박스",setup,장소 정보 보충,잔잔한 배경음,,https://www.youtube.com/watch?v=utvZtdMiJDY&t=3s
+5,4.838,5.906,1.068,hard,face,ECU,정면 클로즈업,고정,1x,눈 반짝임 이펙트,build,놀람 반응,강조 효과음(반짝),sparkle,https://www.youtube.com/watch?v=utvZtdMiJDY&t=4s
+6,5.906,7.674,1.768,hard,object,insert,탑다운 정물 인서트,고정,1x,이중언어 자막 동시 표기,build,음식 소개,그릇 부딪히는 효과음,clink,https://www.youtube.com/watch?v=utvZtdMiJDY&t=5s
+7,7.674,9.843,2.169,hard,face_hands,MS,정면 전신,고정,1x,"점프 모션, 말풍선",tension,단짠 놀람,흥분 효과음(통통 튐),boing,https://www.youtube.com/watch?v=utvZtdMiJDY&t=7s
+8,9.843,11.211,1.368,match,face,ECU,정면 클로즈업 확대,크래시 줌,1x,크래시 줌,reveal,감탄 절정,크래시 줌 효과음(쿵),impact,https://www.youtube.com/watch?v=utvZtdMiJDY&t=9s
+9,11.211,12.846,1.635,hard,face,CU,정면 클로즈업,고정,1x,"표정 유지, 배경 전환",reaction,수다 지속,BGM만,,https://www.youtube.com/watch?v=utvZtdMiJDY&t=11s
+10,12.846,13.78,0.934,jump,face,CU,정면 클로즈업,고정,1x,표정만 미세 변화(점프컷),build,고민·기대감,BGM만,,https://www.youtube.com/watch?v=utvZtdMiJDY&t=12s
+11,13.78,16.55,2.769,hard,face_hands,MS,정면 인서트+리액션,고정,1x,가격표 인서트 팝업,tension,구매 제안+즉답 예고,결정 효과음(띵),ding,https://www.youtube.com/watch?v=utvZtdMiJDY&t=13s
+12,16.55,19.019,2.469,dissolve,face_hands,CU,정면 클로즈업 스모크 전환,고정,1x,블러→스모크 전환,reveal,거절 전조,정색 효과음(스윽),whoosh_low,https://www.youtube.com/watch?v=utvZtdMiJDY&t=16s
+13,19.019,19.953,0.934,jump,face,CU,정면 클로즈업,고정,1x,"짧은 홀드, 점프컷",payoff,정색 거절,BGM만,,https://www.youtube.com/watch?v=utvZtdMiJDY&t=19s
+14,19.953,21.755,1.802,hard,text,insert,정면 텍스트 카드,고정,1x,생각풍선 그래픽,reveal,심리 요약,BGM만,,https://www.youtube.com/watch?v=utvZtdMiJDY&t=19s
+15,21.755,23.524,1.768,hard,hands,CU,정면 손 개입,고정,1x,손 등장 애니메이션,reaction,제지+회상,손 개입 효과음(톡),tap,https://www.youtube.com/watch?v=utvZtdMiJDY&t=21s
+16,23.524,25.626,2.102,hard,face,ECU,정면 클로즈업 엔딩,고정,1x,정지 클로즈업 홀드,loop,훈훈한 마무리,잔잔한 엔딩 BGM,,https://www.youtube.com/watch?v=utvZtdMiJDY&t=23s

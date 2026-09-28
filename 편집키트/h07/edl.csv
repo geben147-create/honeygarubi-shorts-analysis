@@ -1,0 +1,13 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,1.869,1.869,hard,text,insert,정면 텍스트 카드 인서트,고정,1x,정적 카드 그래픽 유지,hook,메타 안내 문구,BGM만,,https://www.youtube.com/watch?v=O_Wsje8Q1PI&t=0s
+2,1.869,2.069,0.2,dissolve,object,insert,정면 전환 이펙트,고정,1x,스모크 와이프 리빌,hook,,전환 강조음(추정),스모크 와이프음(추정),https://www.youtube.com/watch?v=O_Wsje8Q1PI&t=1s
+3,2.069,3.303,1.235,hard,face,CU,정면 클로즈업,고정,1x,눈 표정 강조 이펙트(소용돌이),reaction,업무 복귀 다짐,강조음(추정),,https://www.youtube.com/watch?v=O_Wsje8Q1PI&t=2s
+4,3.303,5.839,2.536,hard,face_hands,MS,정면 상반신,고정,1x,모니터 불빛 대비 어두운 방 톤,setup,상황 설명,BGM만,,https://www.youtube.com/watch?v=O_Wsje8Q1PI&t=3s
+5,5.839,7.875,2.035,hard,mixed,WS,정면 풀샷에서 편집 줌으로 클로즈업 전환,푸시인,1x,괄호 라벨 코멘터리 자막 삽입,build,"목격 순간, 인물 라벨",놀람 예고(추정),,https://www.youtube.com/watch?v=O_Wsje8Q1PI&t=5s
+6,7.875,10.01,2.135,hard,face,ECU,정면 극단 클로즈업,고정,1x,"다크 아우라/균열 배경 합성, 괄호 라벨 자막",tension,인물 라벨(과장된 별명),놀람 강조(추정),다크 아우라 등장음(추정),https://www.youtube.com/watch?v=O_Wsje8Q1PI&t=7s
+7,10.01,13.28,3.27,hard,face_hands,MCU,정면 상반신,고정,1x,표정 변화 없이 정지된 프레임 유지,build,침묵 속 행동,행동 강조(추정),,https://www.youtube.com/watch?v=O_Wsje8Q1PI&t=10s
+8,13.28,16.049,2.769,hard,face_hands,MCU,정면 상반신,고정,1x,조명 빛 번짐 효과,payoff,감동의 순간,훈훈 강조(추정),반짝임 효과음(추정),https://www.youtube.com/watch?v=O_Wsje8Q1PI&t=13s
+9,16.049,17.317,1.268,hard,face,CU,정면 오버더숄더 클로즈업,고정,1x,오버더숄더 구도로 긴장감 유지,reveal,감동 직전,긴장 유지(추정),,https://www.youtube.com/watch?v=O_Wsje8Q1PI&t=16s
+10,17.317,19.753,2.436,hard,face_hands,MCU,정면 상반신,고정,1x,괄호 라벨 코멘터리 강조,reveal,진짜 이유 공개,반전 예고(추정),반전 효과음(추정),https://www.youtube.com/watch?v=O_Wsje8Q1PI&t=17s
+11,19.753,21.555,1.802,hard,face,ECU,정면 극단 클로즈업,고정,1x,붉은 화염 배경 합성(팔레트 상 밝은 핑크레드 비중 27.4%),payoff,분노 반응,분노 강조(추정),화염 효과음(추정),https://www.youtube.com/watch?v=O_Wsje8Q1PI&t=19s
+12,21.555,23.557,2.002,hard,face_hands,MS,정면 투샷,고정,1x,별도 이펙트 없이 정적인 투샷 유지,loop,감정 낙차 엔딩,BGM만,,https://www.youtube.com/watch?v=O_Wsje8Q1PI&t=21s

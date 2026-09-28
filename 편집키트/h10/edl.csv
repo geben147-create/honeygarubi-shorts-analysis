@@ -1,0 +1,15 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,0.067,0.067,flash,text,insert,정면,고정,1x,순간적인 화이트 플래시로 영상 시작을 알린다.,hook,타이틀 예고,화이트 플래시 강조음(추정),,https://www.youtube.com/watch?v=CiGUnnJH71g&t=0s
+2,0.067,1.435,1.368,hard,text,insert,정면,고정,1x,"검은 배경에 노란 강조색 제목 텍스트, 하단에 작은 캐릭터 아이콘과 날짜 스탬프가 배치된다.",hook,제목 고지,BGM만(도입부 잔잔한 톤),,https://www.youtube.com/watch?v=CiGUnnJH71g&t=0s
+3,1.435,4.304,2.87,dissolve,face_hands,MS,정면,고정,1x,시그니처 스모크(흰 연기) 와이프 전환 후 정지 일러스트가 유지된다.,setup,인물·상황 소개,연기 전환 화이트노이즈성 스윕 사운드,스모크와이프,https://www.youtube.com/watch?v=CiGUnnJH71g&t=1s
+4,4.304,5.839,1.535,hard,face_hands,MCU,정면,고정,1x,표정 변화(눈 감음)만으로 감정을 전달하며 배경은 고정된다.,setup,결심 표현,BGM만,,https://www.youtube.com/watch?v=CiGUnnJH71g&t=4s
+5,5.839,7.574,1.735,jump,mixed,insert,정면,편집 줌(펀치인),1x,"소품 인서트에 반짝이는 강조 텍스트와 흔들림 효과가 붙고, 마지막에 캐릭터 얼굴로 펀치인한다.",build,아이디어 강조,반짝 강조 사운드(딩동류),반짝효과음,https://www.youtube.com/watch?v=CiGUnnJH71g&t=5s
+6,7.574,8.742,1.168,hard,object,CU,탑다운,고정,1x,소품만 보여주는 인서트 컷으로 정보 전달 속도를 높인다.,build,적정량 강조,BGM만,,https://www.youtube.com/watch?v=CiGUnnJH71g&t=7s
+7,8.742,9.91,1.168,hard,hands,MCU,로우앵글,고정,1x,뒷모습 구도로 신선한 시점 전환을 만든다.,build,만족스러운 취식,아삭거리는 취식음(추정),,https://www.youtube.com/watch?v=CiGUnnJH71g&t=8s
+8,9.91,10.878,0.968,hard,face_hands,MCU,정면,고정,1x,손이 프레임 안쪽에서 등장하고 캐릭터 얼굴이 정면으로 노출된다(14컷 중 얼굴 검출값이 가장 높은 컷).,tension,다가오는 순간,BGM만,,https://www.youtube.com/watch?v=CiGUnnJH71g&t=9s
+9,10.878,12.112,1.235,hard,face,ECU,측면,고정,1x,배경을 흐림 처리해 얼굴 표정에 집중시킨다.,tension,감사 인사,BGM만,,https://www.youtube.com/watch?v=CiGUnnJH71g&t=10s
+10,12.112,14.414,2.302,hard,face,ECU,정면,크래시 줌,1x,"배경 불꽃 파티클, 대형 강조 텍스트(이중 언어 자막), 크래시 줌인이 함께 쓰인다.",reveal,정확한 개수 언급,화르륵 이펙트 사운드(고역비 급상승 구간),불꽃효과음,https://www.youtube.com/watch?v=CiGUnnJH71g&t=12s
+11,14.414,16.383,1.969,hard,face,ECU,정면,편집 줌(펀치인),1x,"방사형 충격선 배경, 얼굴 붉어짐 표현이 쓰인다.",reaction,소름 반응,충격 강조 효과음(추정),충격효과음,https://www.youtube.com/watch?v=CiGUnnJH71g&t=14s
+12,16.383,19.052,2.669,hard,face_hands,MCU,정면,고정,1x,정지 프레임을 길게 유지하는 홀드 편집(코미디 타이밍용)이 쓰인다.,payoff,재치있는 마무리,BGM만(잔잔하게 정리되는 톤),,https://www.youtube.com/watch?v=CiGUnnJH71g&t=16s
+13,19.052,20.02,0.968,hard,object,insert,탑다운,고정,1x,패턴 배경 위 텍스트카드가 색상 대비로 강조된다.,payoff,과장 비교 개그,BGM만,,https://www.youtube.com/watch?v=CiGUnnJH71g&t=19s
+14,20.02,21.488,1.468,hard,face_hands,MCU,정면,고정,1x,하단 자막이 주 언어·보조 언어 순으로 겹쳐 표기되는 이 채널의 다국어 자막 레이아웃이 쓰인다.,loop,열린 결말 멘트,BGM 페이드아웃,,https://www.youtube.com/watch?v=CiGUnnJH71g&t=20s

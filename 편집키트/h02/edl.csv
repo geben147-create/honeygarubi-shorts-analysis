@@ -1,0 +1,16 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,2.402,2.402,hard,text,insert,정면(카드형 인서트),고정,1x,"헤드라인 색상이 흰↔형광초록으로 불규칙 반짝임, 하단 고정 정보 바 동시 노출",hook,반전 예고,"타이틀 인트로 BGM, 온셋 3.75/s·hf_ratio 0.047",,https://www.youtube.com/watch?v=OqhUKxOV59s&t=0s
+2,2.402,2.603,0.2,dissolve,object,insert,정면(전환 그래픽),크래시 줌,1x,화이트 스모크 와이프가 프레임 전체를 채웠다가 빠르게 갈라지며 다음 컷 노출,hook,,"전환 임팩트 사운드, hf_ratio 0.287(15컷 중 최고)",전환 효과음(추정),https://www.youtube.com/watch?v=OqhUKxOV59s&t=2s
+3,2.603,4.404,1.802,hard,face_hands,MCU,정면(두 캐릭터 상반신),고정,1x,고정 카메라로 두 캐릭터의 표정과 손짓을 함께 잡는 정적인 구도,setup,학습 다짐,"대사 중심 저온셋 구간, 온셋 1.66/s",,https://www.youtube.com/watch?v=OqhUKxOV59s&t=2s
+4,4.404,6.406,2.002,dissolve,mixed,WS,아이레벨(배경)→정면(캐릭터),편집 줌(펀치인),1x,"배경 단독 노출 뒤 캐릭터가 페이드인되며 등장, 배경을 스치는 실루엣의 모션블러가 살짝 포착됨",setup,숙제 상황,"등장 타이밍 BGM 강세, 온셋 3.5/s",등장 효과음(추정),https://www.youtube.com/watch?v=OqhUKxOV59s&t=4s
+5,6.406,8.008,1.602,hard,text,insert,정면(메모 클로즈업),편집 줌(펀치인),1x,"손글씨 메모를 화면 중앙에 확대해 항목별로 눈이 가도록 배치, 미세한 흔들림으로 실물감 강조",build,방학 목표,"저온셋 구간, 온셋 1.25/s",종이 효과음(추정),https://www.youtube.com/watch?v=OqhUKxOV59s&t=6s
+6,8.008,9.409,1.401,hard,mixed,MCU,정면(밈 삽입+캐릭터),고정,1x,"밈 이미지 삽입 후 축소되며 캐릭터 리액션 노출, 말풍선 형태의 경계선 처리",build,재미 공부,"코믹 강조 온셋 밀집 구간, 온셋 4.28/s(구간 내 최고 밀도)",강조 효과음(추정),https://www.youtube.com/watch?v=OqhUKxOV59s&t=8s
+7,9.409,11.245,1.835,hard,text,insert,정면(게임 화면 인서트),고정,1x,"게임 화면 그래픽을 풀프레임으로 노출, 마스코트 캐릭터 다수 배치로 화려함 강조",build,게임 구매,"대사+약한 고역 강조, hf_ratio 0.239",,https://www.youtube.com/watch?v=OqhUKxOV59s&t=9s
+8,11.245,12.813,1.568,hard,face_hands,MCU,정면(두 캐릭터 상반신),편집 줌(펀치인),1x,밝은 표정의 두 캐릭터를 동일 프레임에 잡고 편집 줌으로 살짝 확대해 고조감을 강조,build,합의 다짐,"합의 장면 BGM 고조, 온셋 3.19/s",밝은 효과음(추정),https://www.youtube.com/watch?v=OqhUKxOV59s&t=11s
+9,12.813,13.947,1.134,hard,face,CU,정면(클로즈업 리액션),고정,1x,클로즈업을 정지 홀드에 가깝게 유지해 다음 컷의 반전을 위한 긴장을 조성,tension,현실 반전,"담담한 톤 유지, 온셋 2.65/s",,https://www.youtube.com/watch?v=OqhUKxOV59s&t=12s
+10,13.947,16.483,2.536,hard,mixed,MS,POV(어깨너머 시점),고정,1x,어깨너머 시점을 고정한 채 TV 화면 속 지도 그래픽만 부각,reveal,정답 연발,"긴 홀드 구간 저온셋 지속, 온셋 1.97/s",,https://www.youtube.com/watch?v=OqhUKxOV59s&t=13s
+11,16.483,18.118,1.635,hard,face,CU,정면(클로즈업),편집 줌(펀치인),1x,눈을 크게 뜬 클로즈업을 펀치인으로 확대해 놀람을 극대화,reaction,당황 질문,"리액션 강조, hf_ratio 0.155",놀람 효과음(추정),https://www.youtube.com/watch?v=OqhUKxOV59s&t=16s
+12,18.118,19.186,1.068,jump,face,CU,정면(클로즈업),고정,1x,동일 프레임을 유지한 채 표정만 바뀌는 점프컷 처리,reaction,얼버무림,"차분한 톤 유지, hf_ratio 0.038",,https://www.youtube.com/watch?v=OqhUKxOV59s&t=18s
+13,19.186,21.321,2.135,jump,face,CU,정면(클로즈업 고백),편집 줌(펀치인),1x,동일 프레임을 이어가며 확대(펀치인)와 흔들림으로 폭로의 임팩트를 강조,reveal,고백 폭로,"고백 장면 저역 위주, hf_ratio 0.015(15컷 중 최저)",강조 효과음(추정),https://www.youtube.com/watch?v=OqhUKxOV59s&t=19s
+14,21.321,22.923,1.602,hard,face_hands,MCU,"측면(상반신, 벽장 배경)",편집 줌(펀치인),1x,"어두운 톤의 배경 전환으로 회상임을 암시, 속마음 괄호 자막과 본 자막을 두 겹으로 배치",broll,몰래 암기,"회상 톤 강조, 온셋 4.37/s(15컷 중 최고 밀도)",,https://www.youtube.com/watch?v=OqhUKxOV59s&t=21s
+15,22.923,25.158,2.236,hard,mixed,insert,정면(엔딩 카드+캐릭터 버스트),풀아웃,1x,주황 배경의 2단 비교 카드가 먼저 노출된 뒤 축소되며 캐릭터 버스트 컷으로 전환,payoff,결과 정리,"엔딩 징글, 온셋 2.68/s",엔딩 효과음(추정),https://www.youtube.com/watch?v=OqhUKxOV59s&t=22s

@@ -1,0 +1,1012 @@
+{
+ "key": "h11",
+ "group": "honey",
+ "rank": 11,
+ "id": "Qn-fCE1THjA",
+ "fmt": "shorts",
+ "sector": "japan",
+ "logline": "일본 인기 가수가 SNS에 한국 간식을 안타깝게 언급하는 이유를 한 팬이 밝혀내는 32초 실화 사연 애니메이션",
+ "why": [
+  "조회수 70.7만은 구독자 18.1만의 약 3.9배로, 유튜브 메타 제목의 감정 어휘('슬프게')와 영상 내 상단 고정 타이틀 바 문구('갑자기 한국 음식을 얘기하는 이유')가 서로 다르게 궁금증을 이중으로 자극한다.",
+  "idx1~2(0.00~2.40s, 2.34초 홀드) 동안 정적 타이틀/썸네일 카드를 유지한 뒤 idx3(2.40~2.60s, 0.20초)의 화이트 스모크 와이프로 전환해 시선을 재집중시킨다.",
+  "cut_onset_sync_pct 47.4%는 chance_sync_pct 43.6%보다 3.8%p 밖에 높지 않아, 실제 컷 19개(false 1개 제외)가 배경음악 비트보다 대사·자막 타이밍에 맞춰 편집됐음을 보여준다.",
+  "가장 짧은 컷은 idx12(17.15~17.42s, 0.27초) 하나뿐인 점프컷으로, 반복 대사 뒤 더블테이크 개그를 만든다.",
+  "가장 긴 컷은 idx14(19.22~22.22s, 3.00초)로 손편지풍 텍스트 카드를 길게 보여줘 맥락 없는 대사를 시청자가 직접 읽게 한다.",
+  "캐릭터 얼굴 단독 클로즈업은 20컷 중 7컷(35%)뿐이고 SNS·스크린샷·실사 배경 인서트가 결합된 컷이 8컷(40%)에 달해, 실화 근거 자료를 적극 인용하는 채널 시그니처가 드러난다.",
+  "faces.json 자동 얼굴 검출 비율은 0.013(1.3%)로 극히 낮지만 2D 애니메이션 캐릭터 특성상 예상된 결과이며, 눈으로 센 캐릭터 등장 비율(35~75%)과는 무관하다(note 처리)."
+ ],
+ "formula": [
+  "유튜브 메타 제목엔 감정 어휘('슬프게')를 넣어 클릭 유도",
+  "영상 내 상단 고정 타이틀 바엔 순화된 궁금증형 문구('~하는 이유')로 재프레이밍",
+  "0~2.4초 정적 타이틀/썸네일 카드로 도입부 시작",
+  "화이트 스모크 와이프 1회로 실제 사연 장면 진입",
+  "실사 배경 사진 위에 2등신 캐릭터를 합성해 신뢰성 부여",
+  "인물의 특이 행동(SNS 한국어 사용 등)을 1~2컷씩 빠르게 나열",
+  "동일 패턴 대사를 2회 반복시켜 리듬을 만들고 두 번째는 0.27초 초단컷으로 처리",
+  "손편지/메모 텍스트 카드를 3초간 롱홀드해 오해·긴장 구간 조성",
+  "제3자(추리물 팬) 시점으로 진실을 밝혀내는 반전 전개 삽입",
+  "SNS 스크린샷(본인 트윗)으로 반전의 '증거'를 시각적으로 제시",
+  "캐릭터의 부끄러움 반응과 코믹 변장(선글라스) 개그로 마무리",
+  "다음 화 예고 없이 단발성으로 완결하는 엔딩 처리"
+ ],
+ "hook": {
+  "title_hook": "유튜브 메타 제목엔 감정 단어('슬프게')를 넣어 클릭을 유도하고, 실제 상단 고정 타이틀 바는 '갑자기 한국 음식을 얘기하는 이유'라는 완곡한 궁금증형 문구를 써서 서로 다른 결로 이중 후킹한다.",
+  "first_frame": "상단 고정 타이틀 바와 하단의 썸네일풍 설명 카드(채널 로고·2026.09 날짜 표기)가 겹쳐 보이는 완전 정적 화면.",
+  "first_1s": "0~1.0초 사이 움직임이 전혀 없이 카드가 유지되며(idx1~2), 시청자가 제목 문구를 읽을 시간을 확보한다.",
+  "first_3s": "2.4초 지점에서 밝기 234.8의 화이트 스모크 와이프가 발생하고, 2.6~2.8초에 어두운 실내 실루엣과 함께 '일본에서 굉장히 유명'이라는 소개 문구가 등장한다.",
+  "text_hook": "상단 고정 타이틀 바 문구가 영상 내내 유지되며 둘째 줄만 초록색으로 강조되어 궁금증의 핵심 단어에 시선이 머물게 한다.",
+  "aggro_types": [
+   "이유 은닉형 궁금증(제목에 결론 미공개)",
+   "감정 과장 어휘(메타 제목의 '슬프게')와 실제 톤의 낙차",
+   "실사 사진 배경 인서트로 신뢰성 부여",
+   "떡밥 회수형 반전(제3자 팬이 진실을 밝힘)"
+  ],
+  "promise_payoff": "제목이 약속한 '이유'는 엔딩부에서 '유행 음식 추천을 받으려던 귀여운 속셈'으로 즉시 회수되며, 32초 안에 완결되어 다음 화 루프 없이 종료된다.",
+  "retention_devices": [
+   "초반 정적 홀드 후 스모크 전환으로 시선 재집중",
+   "반복 자막 문구(유행 여부 언급)로 리듬감 형성",
+   "0.27초 초단컷 더블테이크로 웃음 포인트 삽입",
+   "실사 배경 인서트로 채널 시그니처 신뢰성 제공",
+   "제3자 팬의 추리를 통한 반전 앞두고 궁금증 재점화",
+   "본인 SNS 스크린샷 인서트로 실화 근거 제시"
+  ],
+  "ending_loop": "명시적 다음 화 예고는 없음 — 캐릭터가 부끄러워 도망가는 개그로 상황을 종료하며, 댓글 다수가 캐릭터의 반전 매력에 대한 애정 표현으로 이어진다.",
+  "score": 8,
+  "score_note": "구독자 18.1만 대비 조회수 70.7만(약 3.9배), 좋아요 8609·댓글 229로 참여율이 우수하다. 메타 제목의 감정 프레이밍과 실제 결말의 귀여운 반전 사이 낙차가 클릭과 시청 지속 모두에 기여한 것으로 추정."
+ },
+ "topic": {
+  "material": "실존 일본 가수의 SNS 발언(트렌드 간식 언급)을 소재로 삼은 실화 기반 팬덤 사연",
+  "novelty": "케이팝 팬덤 밈을 2등신 캐릭터 애니메이션 사연 채널이 재가공해, 실사 스크린샷 인서트와 결합한 점이 새롭다",
+  "trend_hook": "최근 유행하는 한국 디저트류 밈 + 해외 아티스트와 한국 팬덤 간 SNS 소통이라는 화제성",
+  "series": "이 영상 자체로 완결되는 단발성 사연이며, 동일 인물을 다룬 후속편 존재 여부는 확인 불가"
+ },
+ "visual": {
+  "people": {
+   "face_pct": 35,
+   "hands_pct": 40,
+   "object_only_pct": 25,
+   "face_role": "이 채널에서 '얼굴'은 캐릭터 단독 반응 클로즈업(35%), '손'은 상반신·전신 및 손짓·소품 포함 컷(40%)으로 재해석했고, '물체만'은 텍스트 카드·스크린샷·배경만 나오는 컷(25%)이다. 전신·몸짓 비중이 예상보다 높아 선글라스 변장 등 몸짓 개그가 자주 쓰인다.",
+   "note": "faces.json 자동 얼굴 검출값은 0.0~0.2 수준으로 참고용일 뿐이며, 위 비율은 20개 컷을 직접 눈으로 세어 산출했다."
+  },
+  "angles": [
+   {
+    "name": "타이틀/썸네일 카드",
+    "shots": [
+     1,
+     2
+    ],
+    "pct": 10,
+    "why": "도입부 정적 홀드로 제목을 읽게 하는 구간"
+   },
+   {
+    "name": "전환 이펙트(스모크 와이프)",
+    "shots": [
+     3
+    ],
+    "pct": 5,
+    "why": "장면 진입 전 시선 재집중"
+   },
+   {
+    "name": "캐릭터 단독 클로즈업 반응",
+    "shots": [
+     5,
+     8,
+     10,
+     12
+    ],
+    "pct": 20,
+    "why": "대사 전달과 표정 연기 중심 컷"
+   },
+   {
+    "name": "실사 배경 인서트+캐릭터",
+    "shots": [
+     4,
+     6
+    ],
+    "pct": 10,
+    "why": "채널 시그니처인 사진 배경 합성"
+   },
+   {
+    "name": "SNS/메신저 화면 인서트",
+    "shots": [
+     7,
+     19
+    ],
+    "pct": 10,
+    "why": "실화 근거를 스크린샷으로 제시"
+   },
+   {
+    "name": "캐릭터 상반신(소품 포함)",
+    "shots": [
+     9,
+     13
+    ],
+    "pct": 10,
+    "why": "음식·메모 등 소품과 함께 상반신 노출"
+   },
+   {
+    "name": "음식/스크린샷 콜라주 인서트",
+    "shots": [
+     11,
+     17
+    ],
+    "pct": 10,
+    "why": "정보량이 많은 순간 콜라주로 압축 전달"
+   },
+   {
+    "name": "텍스트 카드(편지 인서트)",
+    "shots": [
+     14
+    ],
+    "pct": 5,
+    "why": "긴 대사를 읽게 하는 롱홀드 구간"
+   },
+   {
+    "name": "캐릭터 투샷",
+    "shots": [
+     15,
+     20
+    ],
+    "pct": 10,
+    "why": "두 캐릭터의 반응을 동시에 보여주는 구간"
+   },
+   {
+    "name": "익스트림 클로즈업 리액션",
+    "shots": [
+     16
+    ],
+    "pct": 5,
+    "why": "감정 절정의 놀람 표현"
+   },
+   {
+    "name": "배경 레퍼런스 컷인",
+    "shots": [
+     18
+    ],
+    "pct": 5,
+    "why": "제3자 관점(추리) 삽입으로 반전 예고"
+   }
+  ],
+  "sizes": {
+   "ECU": 1,
+   "CU": 7,
+   "MCU": 2,
+   "MS": 3,
+   "WS": 0,
+   "insert": 7
+  },
+  "look": "고채도 파스텔 톤 캐릭터(피부·볼 하이라이트는 오렌지·핑크)와 저채도 실사 배경(회갈색)의 대비가 뚜렷하고, 상단 고정 타이틀 바는 흰 배경에 검정+초록 텍스트, 하단 대사 자막은 검정 반투명 바 위 흰 글씨로 통일돼 있다.",
+  "signature_shots": [
+   "idx3 화이트 스모크 와이프 전환",
+   "idx6 실사 포토 배경 위 2등신 캐릭터 합성",
+   "idx12 0.27초 초단컷 더블테이크",
+   "idx14 손편지풍 텍스트 카드 3초 롱홀드",
+   "idx18 레퍼런스 실루엣(추리물) 컷인",
+   "idx19 SNS 인증마크 포함 스크린샷 리빌"
+  ]
+ },
+ "pacing": {
+  "summary": "20개 컷, 총 31.57초. 평균 1.66초/컷(false 컷 제외 19개 기준)로 대사 전달에 맞춘 중간 속도 편집이며, 유일하게 idx12(0.27초)만 순간적인 초단컷 개그로 리듬을 깬다.",
+  "cuts_real": 19,
+  "avg_shot_s": 1.66,
+  "median_shot_s": 1.75,
+  "cpm": 36.1,
+  "fastest_run": "idx10~13(13.85~19.22s, 5.37초 동안 4컷) 구간이 가장 빠르며, 특히 idx12(0.27초) 한 컷이 전체에서 가장 짧아 더블테이크 개그를 만든다.",
+  "slowest": "idx14(19.22~22.22s, 3.00초)가 전체에서 가장 길게 홀드되며, 손편지풍 텍스트를 읽게 하는 정보 전달 구간이다.",
+  "speed_ramps": "도입부(0~2.4s)는 완전 정적, 중반(9.6~19.2s)은 반복 대사+초단컷으로 리듬 형성, 후반(24.8~29.7s)은 반전·공개로 다시 빨라졌다가 엔딩에서 진정된다.",
+  "rhythm_note": "cut_onset_sync_pct 47.4%가 chance_sync_pct 43.6%와 큰 차이가 없어(+3.8%p) 편집이 음악 비트보다 대사·자막 타이밍에 종속적이다. 유일한 예외적 리듬은 idx12의 0.27초 점프컷.",
+  "curve": [
+   {
+    "t0": 0.0,
+    "t1": 2.6,
+    "cps": 0.4,
+    "note": "정적 홀드+스모크 전환 1회"
+   },
+   {
+    "t0": 2.6,
+    "t1": 11.91,
+    "cps": 0.54,
+    "note": "인물 소개, 컷당 1.5~2초"
+   },
+   {
+    "t0": 11.91,
+    "t1": 19.22,
+    "cps": 0.74,
+    "note": "반복 대사+0.27초 초단컷 포함 구간"
+   },
+   {
+    "t0": 19.22,
+    "t1": 24.76,
+    "cps": 0.72,
+    "note": "편지 인서트 롱홀드 포함, 긴장 조성"
+   },
+   {
+    "t0": 24.76,
+    "t1": 29.66,
+    "cps": 0.82,
+    "note": "반전 공개, 컷당 0.7~2.5초"
+   },
+   {
+    "t0": 29.66,
+    "t1": 31.57,
+    "cps": 0.52,
+    "note": "엔딩 개그 마무리"
+   }
+  ]
+ },
+ "sound": {
+  "summary": "배경음악(브금대통령 제공 트랙, BPM 약 136 추정) 위에 내레이션이 처음부터 끝까지 깔리는 구조이며, 효과음은 반응 컷(idx16 놀람, idx19 SNS 공개)에 집중 배치됐다.",
+  "layers": {
+   "asmr": false,
+   "bgm": true,
+   "voice": true,
+   "sfx": true
+  },
+  "asmr": [
+   {
+    "t": 2.4,
+    "n": "화이트 스모크 전환 효과음",
+    "type": "whoosh",
+    "how": "장면 전환 직전 밝기 급상승과 동시에 재생"
+   },
+   {
+    "t": 2.6,
+    "n": "인물 등장 스팅어",
+    "type": "reveal_sting",
+    "how": "어두운 배경 등장과 동시 강조"
+   },
+   {
+    "t": 6.11,
+    "n": "말풍선 팝업음",
+    "type": "pop",
+    "how": "공지 텍스트 등장 타이밍에 맞춤"
+   },
+   {
+    "t": 9.61,
+    "n": "SNS 아이콘 확대 강조음",
+    "type": "zoom_ding",
+    "how": "인서트 그래픽 확대와 동시 재생"
+   },
+   {
+    "t": 17.15,
+    "n": "점프컷 강조음",
+    "type": "stutter",
+    "how": "0.27초 더블테이크 컷과 정확히 매칭"
+   },
+   {
+    "t": 19.22,
+    "n": "종이 펼침음",
+    "type": "paper",
+    "how": "편지풍 텍스트 카드 등장 강조"
+   },
+   {
+    "t": 23.82,
+    "n": "놀람 강조 스팅어",
+    "type": "shock_sting",
+    "how": "반전 직전 긴장감 조성, hf_ratio 상승"
+   },
+   {
+    "t": 27.26,
+    "n": "추리물 모티브 패러디 스팅어",
+    "type": "reference_sting",
+    "how": "레퍼런스 컷인과 동시 재생"
+   },
+   {
+    "t": 28.96,
+    "n": "SNS 알림음",
+    "type": "notification_chime",
+    "how": "트윗 공개 컷 등장과 동시, hf_ratio_4k 0.411로 전체 최고치"
+   },
+   {
+    "t": 29.66,
+    "n": "도망 발소리 폴리",
+    "type": "run_foley",
+    "how": "엔딩 개그 마무리 컷에 맞춤"
+   }
+  ],
+  "sfx": [
+   {
+    "t": 2.4,
+    "n": "스모크 와이프 훅",
+    "type": "transition",
+    "role": "장면 전환 강조"
+   },
+   {
+    "t": 6.11,
+    "n": "말풍선 팝",
+    "type": "ui",
+    "role": "공지 텍스트 등장 강조"
+   },
+   {
+    "t": 9.61,
+    "n": "확대 딩동",
+    "type": "zoom",
+    "role": "SNS 인서트 주목 유도"
+   },
+   {
+    "t": 17.15,
+    "n": "점프컷 뾰로롱",
+    "type": "stutter",
+    "role": "더블테이크 개그 강조"
+   },
+   {
+    "t": 19.22,
+    "n": "편지 펼침 사각임",
+    "type": "paper",
+    "role": "정보 카드 등장 강조"
+   },
+   {
+    "t": 23.82,
+    "n": "놀람 스팅어",
+    "type": "shock",
+    "role": "반전 직전 긴장감"
+   },
+   {
+    "t": 27.26,
+    "n": "추리물 테마 모티브",
+    "type": "reference_music",
+    "role": "패러디식 반전 예고"
+   },
+   {
+    "t": 28.96,
+    "n": "알림 반짝임",
+    "type": "notification",
+    "role": "SNS 공개 강조"
+   },
+   {
+    "t": 29.66,
+    "n": "다다닥 발소리",
+    "type": "foley",
+    "role": "도망 개그 마무리"
+   }
+  ],
+  "bgm": {
+   "guess": "미디엄템포 배경 트랙(브금대통령 제공, BPM 약 136 추정)",
+   "role": "내레이션 아래 기본적으로 깔리는 저음량 트랙, 전환 구간에서 텐션이 소폭 상승",
+   "level": "내레이션보다 낮게 믹스(보이스 우선)"
+  },
+  "voice": {
+   "present": true,
+   "type": "여성 내레이션(한국어 대사체, TTS 또는 성우 추정)",
+   "timing": "자막 등장과 거의 동시에 발화되며 문장 끝마다 짧은 pause를 두어 컷 전환과 맞춘다"
+  },
+  "mix": "I_LUFS -15.5, LRA 4.0 LU로 다이내믹레인지가 좁게 압축돼 내레이션 명료도를 우선한 믹스",
+  "sound_first": "장면 전환 효과음이 컷보다 살짝 먼저 등장해 다음 장면을 예고하는 편집(idx3 전환음, idx19 알림음이 대표적)"
+ },
+ "edit_fx": {
+  "summary": "총 19개 실제 전환 중 스모크 와이프 1회, 점프컷 1회를 제외한 17회가 하드컷이며, 실사 배경 합성과 SNS 스크린샷 인서트가 채널의 핵심 시그니처 효과다.",
+  "transitions": [
+   {
+    "type": "스모크 화이트 와이프",
+    "count": 1,
+    "shots": [
+     3
+    ]
+   },
+   {
+    "type": "점프컷(동일 구도, 자막만 교체)",
+    "count": 1,
+    "shots": [
+     12
+    ]
+   },
+   {
+    "type": "하드컷",
+    "count": 17,
+    "shots": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20
+    ]
+   }
+  ],
+  "effects": [
+   {
+    "name": "실사 배경 합성",
+    "shots": [
+     4,
+     6
+    ],
+    "how": "사진 배경 위에 2등신 캐릭터를 합성해 신뢰성 부여"
+   },
+   {
+    "name": "편집 펀치인 줌",
+    "shots": [
+     7,
+     17
+    ],
+    "how": "정지 그래픽 위에서 서서히 확대해 정보 강조"
+   },
+   {
+    "name": "리액션 흔들림(쉐이크)",
+    "shots": [
+     16
+    ],
+    "how": "놀람 리액션에 화면 흔들림으로 충격 강조"
+   },
+   {
+    "name": "강조색 텍스트(초록)",
+    "shots": [
+     1,
+     2
+    ],
+    "how": "제목 둘째 줄만 초록색으로 눈길 집중"
+   },
+   {
+    "name": "스티커/이모지 오버레이",
+    "shots": [
+     8
+    ],
+    "how": "캐릭터 얼굴 위 선글라스 이모지 합성으로 감정 과장"
+   },
+   {
+    "name": "스크린샷 콜라주",
+    "shots": [
+     11,
+     17
+    ],
+    "how": "여러 장의 캡처 이미지를 겹쳐 배치해 정보량 압축 전달"
+   },
+   {
+    "name": "레퍼런스 실루엣 컷인",
+    "shots": [
+     18
+    ],
+    "how": "제3자 시점을 상징하는 실루엣 이미지를 배경으로 삽입"
+   }
+  ],
+  "grade": "고채도 파스텔 캐릭터와 저채도 실사 배경의 대비, 자막 배경은 항상 검정 반투명 바로 통일",
+  "quality_diff": [
+   "실사 사진 배경 위에 애니메이션 캐릭터를 합성해 사연의 사실성을 높임",
+   "SNS 스크린샷을 다수 인서트해 실화 기반임을 시각적으로 증명",
+   "0.27초 초단컷 더블테이크 등 정교한 타이밍의 개그 편집",
+   "유튜브 메타 제목과 영상 내 고정 타이틀 바 문구를 다르게 써 궁금증을 이중으로 자극"
+  ]
+ },
+ "captions": {
+  "summary": "상단 고정 타이틀 바(흰 배경, 둘째 줄만 초록 강조)가 31초 내내 유지되고, 하단에는 대사 자막이 검정 반투명 바 위에 매 컷마다 교체된다.",
+  "styles": [
+   {
+    "name": "상단 고정 타이틀 바",
+    "spec": "흰 배경/검정+초록 텍스트, 화면 상단 고정",
+    "use": "영상 내내 유지, 제목 요약"
+   },
+   {
+    "name": "하단 대사 자막",
+    "spec": "검정 반투명 바, 흰 텍스트, 컷마다 교체",
+    "use": "내레이션 대사 표시"
+   },
+   {
+    "name": "SNS 말풍선/스크린샷 폰트",
+    "spec": "각 그래픽 원본 UI 폰트 그대로 유지",
+    "use": "인서트의 실화 신뢰성 강조"
+   }
+  ],
+  "density": "대사가 있는 거의 모든 컷(20개 중 18개)에 자막이 존재해 대사 밀도가 매우 높음",
+  "note": "유튜브 메타 제목과 영상 내 상단 고정 타이틀 바 문구가 서로 달라 궁금증 프레이밍이 이중으로 작동한다(hook 항목 참고)."
+ },
+ "beats": [
+  {
+   "name": "훅(제목 카드)",
+   "t0": 0.0,
+   "t1": 2.4,
+   "e": 0.1,
+   "desc": "정적 타이틀/썸네일 카드 홀드로 궁금증을 예열한다"
+  },
+  {
+   "name": "상황 설정(인물 소개)",
+   "t0": 2.4,
+   "t1": 9.61,
+   "e": 0.2,
+   "desc": "일본에서 유명한 가수를 소개하고 한국어 SNS 사용 등 특이점을 나열한다"
+  },
+  {
+   "name": "전개1(간식 언급 시작)",
+   "t0": 9.61,
+   "t1": 13.85,
+   "e": 0.1,
+   "desc": "의미심장한 태도로 트렌드 간식을 언급하기 시작한다"
+  },
+  {
+   "name": "전개2(반복 개그)",
+   "t0": 13.85,
+   "t1": 19.22,
+   "e": -0.2,
+   "desc": "다른 간식도 언급하지만 매번 유행이 지났다는 반응이 반복되며 0.27초 더블테이크가 삽입된다"
+  },
+  {
+   "name": "긴장/오해",
+   "t0": 19.22,
+   "t1": 24.76,
+   "e": -0.4,
+   "desc": "맥락 없이 안타까운 태도로 간식을 꺼내는 이유를 몰라 주변이 당황한다"
+  },
+  {
+   "name": "반전/해소(reveal)",
+   "t0": 24.76,
+   "t1": 28.96,
+   "e": 0.6,
+   "desc": "제3자 팬이 진짜 의도를 밝혀내고 본인 SNS 글로 사실이 확인된다"
+  },
+  {
+   "name": "결말/엔딩 개그",
+   "t0": 28.96,
+   "t1": 31.57,
+   "e": 0.8,
+   "desc": "들킨 것을 부끄러워하다 코믹 변장 후 도망가는 개그로 마무리된다"
+  }
+ ],
+ "comments_insight": {
+  "themes": [
+   {
+    "theme": "캐릭터 반전 매력(갭모에)",
+    "share": "약 35%",
+    "example_paraphrase": "무대 이미지와 실제 성격 차이에 대한 감탄 반응"
+   },
+   {
+    "theme": "캐릭터 귀여움 직접 표현",
+    "share": "약 25%",
+    "example_paraphrase": "표정·행동이 귀엽다는 짧은 감탄"
+   },
+   {
+    "theme": "한국 문화 이해도에 대한 놀람",
+    "share": "약 20%",
+    "example_paraphrase": "한국 커뮤니티 문화까지 파악한 점을 신기해함"
+   },
+   {
+    "theme": "본인 경험/추가 정보 공유",
+    "share": "약 15%",
+    "example_paraphrase": "본인이 목격한 다른 SNS 글이나 일화를 덧붙임"
+   },
+   {
+    "theme": "패러디·드립성 댓글",
+    "share": "약 5%",
+    "example_paraphrase": "가상의 대사나 패러디로 웃음 유발"
+   }
+  ],
+  "what_triggers_comments": "무대 위 이미지와 실제 성격 사이의 반전(갭모에), 그리고 원본 SNS 발언을 알던 팬들의 인증 심리가 댓글을 유도한다",
+  "uploader_pin": "확인 불가(고정 댓글 정보 없음)"
+ },
+ "tech": [
+  "idx1(0.00~0.07s)은 idx2와 거의 동일한 정적 프레임으로 컷 검출 오차(cut_type=false) — 실편집에서는 하나의 홀드로 처리해도 무방",
+  "idx3(2.40~2.60s, 0.20초)는 밝기 234.8로 전체 컷 중 가장 밝아 화이트 스모크 와이프 전환의 정점",
+  "idx4(2.60~4.20s)는 saturation 73.5로 전체 컷 중 채도가 가장 높아 어두운 배경 위 캐릭터가 도드라짐",
+  "idx6(6.11~7.64s)은 실사 사진(실내 배경)을 사용한 두 컷 중 하나로 애니메이션·실사 합성 기법을 보여줌",
+  "idx9(11.91~13.85s) 구간 오디오 onsets_per_s는 3.1로 대사 발화가 빠른 구간",
+  "idx12(17.15~17.42s, 0.27초)는 motion_mean 18.56으로 전체 2위 수준의 움직임값 — 초단컷 점프의 수치적 증거",
+  "idx14(19.22~22.22s, 3.00초)는 20컷 중 가장 길고 onsets_per_s 4.0으로 대사 밀도도 가장 높음",
+  "idx16(23.82~24.76s)은 motion_mean 17.3·오디오 rms -16.7dB로 전체에서 가장 크고 격렬한 반응 컷",
+  "idx19(28.96~29.66s, 0.70초)는 hf_ratio_4k 0.411로 전체 평균(0.09) 대비 4배 이상 높아 알림성 SFX로 추정",
+  "전체 러프니스: I_LUFS -15.5, LRA 4.0으로 다이내믹레인지가 좁아 내레이션 청취성을 우선한 믹스",
+  "faces.json 얼굴 검출은 idx13(0.11), idx18(0.12)에서만 0을 넘어 캐릭터가 정면에 가까울 때만 간헐적으로 잡힘",
+  "cut_onset_sync_pct(47.4%)가 chance_sync_pct(43.6%)보다 근소하게 높아 편집이 비트보다 대사에 종속적임을 재확인",
+  "cuts_f 배열 기준 실제 컷 포인트는 19개이며 cuts.json shots 배열은 20개(첫 false 컷 포함) — 스키마상 20개 그대로 유지",
+  "bpm_est 136으로 미디엄업템포 배경음악 추정되나 실제 컷 리듬과는 상관관계가 낮음"
+ ],
+ "adapt": {
+  "keep": [
+   "실사 배경+2D 캐릭터 합성 기법",
+   "SNS 스크린샷 인서트로 신뢰성 확보",
+   "반복 대사+점프컷 개그 리듬",
+   "메타 제목/고정 타이틀 바 이중 프레이밍"
+  ],
+  "change": [
+   "0.27초 초단컷은 플랫폼별 재생 환경 고려해 0.3~0.4초로 소폭 조정",
+   "제3자 IP(추리물) 레퍼런스는 라이선스 이슈 회피 위해 오리지널 실루엣으로 대체",
+   "편지 인서트 3초 홀드는 텍스트 가독성 테스트 후 2.5초로 단축 검토"
+  ],
+  "idea_ai_shorts": "AI 이미지 생성으로 2등신 캐릭터 표정 세트를 미리 만들어두고 실사 배경은 스톡 사진으로 대체해, 동일 포맷의 '해외 유명인이 한국 문화를 언급하는' 사연 시리즈를 양산할 수 있다",
+  "idea_live_action": "실제 배우가 스마트폰을 들고 리액션하는 라이브액션 버전으로 제작하되, SNS 스크린샷은 화면 인서트로 그대로 활용하고 나레이션은 보이스오버로 유지한다"
+ },
+ "kit": {
+  "shoot_list": [
+   "세로 9:16, 720x1280 해상도 캔버스",
+   "상단 고정 타이틀 바 레이어(흰 배경+검정/초록 텍스트) 최상단 고정",
+   "실내 실사 배경 사진 2장 이상 확보",
+   "2등신 캐릭터 정면/측면/반응 표정 최소 5종 일러스트",
+   "SNS 말풍선·트윗 UI 목업 템플릿",
+   "손편지/메모 텍스트 카드 템플릿",
+   "화이트 스모크 와이프 전환 소스 1개",
+   "선글라스 이모지 등 개그용 오버레이 스티커"
+  ],
+  "edit_recipe": [
+   "0~2.4초 타이틀/썸네일 카드 고정",
+   "2.4~2.6초 스모크 와이프 전환 삽입",
+   "실사 배경 위 캐릭터 합성, 대사 싱크에 맞춰 컷 분할(평균 1.5~2초)",
+   "반복 대사 구간 중 1컷은 0.27초 점프컷으로 강조",
+   "편지/메모 인서트는 3초 롱홀드로 처리",
+   "반전 직전 레퍼런스 실루엣 컷인 삽입",
+   "SNS 스크린샷 리빌 컷 삽입, 고역 강조 SFX 매칭",
+   "엔딩 개그 컷은 1초 내외로 빠르게 마무리, 자막 톤 유지"
+  ],
+  "sfx_search": [
+   "whoosh transition sound",
+   "smoke wipe sound effect",
+   "pop up notification chime",
+   "comic jump cut stutter sfx",
+   "paper unfold rustle",
+   "surprise shock sting",
+   "cute gasp reaction sound",
+   "detective theme parody sting",
+   "twitter notification ding",
+   "cartoon running footsteps foley",
+   "cartoon blush sfx",
+   "upbeat lofi background loop"
+  ]
+ },
+ "shots": [
+  {
+   "n": 1,
+   "cut_type": "false",
+   "subj": "text",
+   "sz": "insert",
+   "ang": "정면(타이틀 카드, 인물 없음)",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "상단 고정 타이틀 바 문구와 하단 채널 설명 카드가 겹친 완전 정적 화면. cuts.json상 0.07초짜리 극단컷이나 다음 컷과 프레임이 거의 동일.",
+   "asmr": "BGM만",
+   "sfx": "",
+   "cap": "",
+   "fx": "강조색(초록) 둘째 줄 텍스트",
+   "role": "hook",
+   "why": "idx2와 밝기(177.5 vs 176.4)·채도(0.6 vs 0.9)가 거의 동일해 실제 장면 전환이 아닌 검출 오차로 판단됨",
+   "shoot": "편집 시 idx1~2를 하나의 홀드로 봐도 무방, 다만 원본 스키마 유지를 위해 컷 번호는 분리 기재",
+   "prompt": "A flat title card graphic, bold Korean-style headline text over a plain background, no characters visible, clean minimal layout"
+  },
+  {
+   "n": 2,
+   "cut_type": "hard",
+   "subj": "text",
+   "sz": "insert",
+   "ang": "정면 텍스트 카드",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "동일한 타이틀 카드가 2.34초간 유지되며 시청자가 문구를 읽도록 정지 상태를 지속한다.",
+   "asmr": "BGM만",
+   "sfx": "",
+   "cap": "제목 반복 제시",
+   "fx": "강조색(초록) 둘째 줄 유지",
+   "role": "hook",
+   "why": "0~2.4초(idx1~2 합산 2.41초) 동안 움직임 없이 홀드해 궁금증을 예열하는 도입 패턴",
+   "shoot": "제목 두 줄 구성(검정/초록), 하단 작은 설명 카드는 채널 로고+날짜 표기 유지",
+   "prompt": "A static vertical title card, large bold Korean headline in black and green accent color on white background, minimal thumbnail-style layout below"
+  },
+  {
+   "n": 3,
+   "cut_type": "dissolve",
+   "subj": "object",
+   "sz": "insert",
+   "ang": "정면(전환 그래픽)",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "화면 전체가 흰 연기 형태로 뒤덮이는 화이트 스모크 와이프 전환 그래픽, 우측 하단에 다음 장면의 실루엣이 살짝 비친다.",
+   "asmr": "전환 강조 효과음",
+   "sfx": "whoosh",
+   "cap": "",
+   "fx": "스모크 와이프",
+   "role": "hook",
+   "why": "밝기 234.8로 전체 20컷 중 최고치를 기록, 도입부와 본편을 시각적으로 구분짓는 전환점",
+   "shoot": "흰색 연기/구름 텍스처 소스를 0.2초 내로 빠르게 확산시키는 방식으로 제작",
+   "prompt": "A bright white smoke wipe transition effect filling the frame, soft cloud-like texture, high-key lighting, motion blur"
+  },
+  {
+   "n": 4,
+   "cut_type": "hard",
+   "subj": "face",
+   "sz": "CU",
+   "ang": "정면 클로즈업(실사 배경)",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "어두운 실내 공간을 실사 사진으로 배경 삼아 캐릭터 상반신이 등장하고, 머리 위에 이름표 그래픽과 '일본에서 유명하다'는 설명 문구가 붙는다.",
+   "asmr": "등장 스팅어",
+   "sfx": "reveal_sting",
+   "cap": "인물 소개 이름표",
+   "fx": "실사 배경 합성+말풍선형 이름표",
+   "role": "setup",
+   "why": "saturation 73.5로 전체 컷 중 채도 최고치를 기록해 어두운 배경 위 캐릭터가 뚜렷하게 도드라짐",
+   "shoot": "실내 사진(복도/방 등 저채도) 위에 2등신 캐릭터를 합성하고 이름표 아이콘을 상단에 배치",
+   "prompt": "A chibi-style 2D animated character with light pink hair, upper body close-up, composited over a dim realistic indoor photo background, a small name-tag icon floating above the head"
+  },
+  {
+   "n": 5,
+   "cut_type": "hard",
+   "subj": "face",
+   "sz": "CU",
+   "ang": "정면 클로즈업",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "동일 캐릭터의 클로즈업이 이어지며 이 인물의 독특한 특징을 소개하는 대사가 흐른다.",
+   "asmr": "BGM만",
+   "sfx": "",
+   "cap": "특이 인물 소개",
+   "fx": "미세 팬 이동(호흡감)",
+   "role": "setup",
+   "why": "idx4에서 이어지는 2번째 소개 컷으로, 1.9초 동안 표정 연기로 캐릭터 성격을 각인시킴",
+   "shoot": "눈웃음+살짝 상기된 볼 표정으로 친근한 인상을 강조",
+   "prompt": "A chibi-style 2D animated character with light pink hair, close-up smiling expression, soft cel-shaded lighting, plain dark background"
+  },
+  {
+   "n": 6,
+   "cut_type": "hard",
+   "subj": "mixed",
+   "sz": "insert",
+   "ang": "정면(실사 배경 인서트)",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "책장과 화분이 보이는 실사 실내 사진을 배경으로 캐릭터가 작게 배치되고, 방송 출연을 알리는 말풍선형 공지 그래픽이 겹친다.",
+   "asmr": "말풍선 팝업음",
+   "sfx": "pop",
+   "cap": "방송 출연 공지",
+   "fx": "실사 배경 합성+말풍선 그래픽",
+   "role": "setup",
+   "why": "채널 시그니처인 실사 배경 합성 기법이 쓰인 2개 컷 중 하나로, 신뢰성 있는 '실제 공간' 느낌을 준다",
+   "shoot": "실내 사진 위에 반투명 말풍선 텍스트 박스를 겹쳐 공지 내용을 전달",
+   "prompt": "A cozy realistic indoor room photo background with bookshelf and plant, a small chibi 2D character in the foreground, a speech-bubble announcement graphic overlay"
+  },
+  {
+   "n": 7,
+   "cut_type": "hard",
+   "subj": "object",
+   "sz": "insert",
+   "ang": "정면 확대(SNS 아이콘 인서트)",
+   "cam": "편집 줌(펀치인)",
+   "speed": "1x",
+   "act": "SNS 계정 아이콘과 인증 마크가 화면 중앙에서 서서히 확대되며, 본인이 직접 한국어로 글을 쓴다는 설명이 이어진다.",
+   "asmr": "확대 강조음",
+   "sfx": "zoom_ding",
+   "cap": "SNS 직접 작성",
+   "fx": "편집 펀치인 줌",
+   "role": "setup",
+   "why": "onsets_per_s 3.1로 대사 발화가 빠른 구간에 배치돼 정보 전달 속도를 높임",
+   "shoot": "SNS 앱 아이콘/프로필 목업을 배경 흐림 처리 후 서서히 확대",
+   "prompt": "A stylized social media profile icon graphic zooming in slowly, blurred character silhouette in the background, clean app-mockup style"
+  },
+  {
+   "n": 8,
+   "cut_type": "hard",
+   "subj": "face",
+   "sz": "CU",
+   "ang": "정면 클로즈업",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "캐릭터 얼굴 위에 선글라스 모양 이모지가 합성되며 의미심장한 태도를 취하는 리액션 컷.",
+   "asmr": "BGM만",
+   "sfx": "",
+   "cap": "의미심장한 태도",
+   "fx": "선글라스 이모지 오버레이",
+   "role": "build",
+   "why": "본격적으로 간식 언급이 시작되기 직전 표정 연기로 긴장감을 예고하는 컷",
+   "shoot": "이모지 스티커 소스를 캐릭터 얼굴 각도에 맞춰 합성",
+   "prompt": "A chibi-style 2D animated character close-up with a sunglasses emoji sticker overlay on the face, playful smug expression"
+  },
+  {
+   "n": 9,
+   "cut_type": "hard",
+   "subj": "face_hands",
+   "sz": "MCU",
+   "ang": "정면 상반신",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "캐릭터가 간식을 손에 든 상반신 컷으로, 화면 한쪽에 '한국 팬들 들어달라'는 취지의 SNS 아이콘이 작게 겹쳐 보인다.",
+   "asmr": "BGM만",
+   "sfx": "",
+   "cap": "트렌드 간식 언급",
+   "fx": "소품(간식) 합성",
+   "role": "build",
+   "why": "onsets_per_s 3.1(오디오 per_shot idx9)로 대사 밀도가 높아 정보 전달이 집중되는 구간",
+   "shoot": "손에 간식 소품을 들려 실제 취식 행동을 표현",
+   "prompt": "A chibi-style 2D animated character holding a small snack with both hands, upper body shot, cheerful expression, simple indoor background"
+  },
+  {
+   "n": 10,
+   "cut_type": "hard",
+   "subj": "face",
+   "sz": "CU",
+   "ang": "정면 클로즈업",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "살짝 눈을 내리깔며 걱정스러운 표정으로 방금 언급한 간식이 이미 유행이 지났는지 되묻는 듯한 리액션.",
+   "asmr": "BGM만",
+   "sfx": "",
+   "cap": "유행 여부 되묻기",
+   "fx": "미세 확대(호흡감)",
+   "role": "build",
+   "why": "1.44초의 비교적 짧은 컷으로 리듬을 살짝 당겨 다음 반복 개그로 이어지는 다리 역할",
+   "shoot": "눈썹을 살짝 내리고 입꼬리를 낮춰 불안한 표정을 표현",
+   "prompt": "A chibi-style 2D animated character close-up with a worried, uncertain facial expression, eyes slightly lowered"
+  },
+  {
+   "n": 11,
+   "cut_type": "hard",
+   "subj": "mixed",
+   "sz": "insert",
+   "ang": "부감(음식 인서트), 캐릭터는 정면 소형 컷인",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "구워진 간식 이미지가 화면 대부분을 채우고 좌측 하단에 캐릭터의 작은 생각 말풍선이 다음에 먹어볼 다른 간식을 언급한다.",
+   "asmr": "BGM만",
+   "sfx": "",
+   "cap": "다음 간식 예고",
+   "fx": "부감 인서트+말풍선 소형 컷인",
+   "role": "build",
+   "why": "음식 이미지를 화면 대부분에 배치해 소재를 시각적으로 각인시키는 채널 특유의 구성",
+   "shoot": "음식 클로즈업 사진/일러스트를 상단에, 캐릭터 생각 말풍선은 하단 구석에 소형 배치",
+   "prompt": "A top-down close-up photo-style illustration of grilled Korean snack food filling most of the frame, a small thought-bubble with a chibi character face in the bottom corner"
+  },
+  {
+   "n": 12,
+   "cut_type": "jump",
+   "subj": "face",
+   "sz": "CU",
+   "ang": "정면 클로즈업(점프컷)",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "동일 구도에서 자막 문구만 바뀌는 0.27초짜리 초단컷으로, 방금 언급한 간식마저 유행이 지났다는 더블테이크 반응.",
+   "asmr": "점프컷 강조음",
+   "sfx": "stutter",
+   "cap": "또 유행 지남",
+   "fx": "자막 순간 전환",
+   "role": "tension",
+   "why": "motion_mean 18.56으로 전체 2위 수준이며 지속시간 0.27초로 20컷 중 가장 짧아 더블테이크 개그의 핵심 컷",
+   "shoot": "동일 프레임을 복제해 자막만 교체, 아주 짧게(0.3초 내외) 노출",
+   "prompt": "A chibi-style 2D animated character close-up, a rapid comic double-take jump cut, same pose with only caption text changed"
+  },
+  {
+   "n": 13,
+   "cut_type": "hard",
+   "subj": "face_hands",
+   "sz": "MCU",
+   "ang": "측면 상반신(메모 확인)",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "다른 캐릭터가 등장해 전화기나 메모를 들여다보며 방금 상황을 의미심장하게 되짚는다.",
+   "asmr": "BGM만",
+   "sfx": "",
+   "cap": "제3자 시점 등장",
+   "fx": "저채도 그레이딩(실내톤)",
+   "role": "tension",
+   "why": "faces.json에서 얼굴 검출값이 0.11로 나온 두 컷 중 하나로, 캐릭터가 비교적 정면에 가깝게 잡힌 구간",
+   "shoot": "손에 스마트폰이나 메모지를 들고 시선은 아래를 향하게 연출",
+   "prompt": "A second chibi-style 2D animated character with a red ribbon hair accessory, side profile, holding a phone or note, thoughtful expression"
+  },
+  {
+   "n": 14,
+   "cut_type": "hard",
+   "subj": "text",
+   "sz": "insert",
+   "ang": "정면(텍스트/편지 인서트)",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "손편지 또는 메모 형식의 텍스트 카드가 화면 대부분을 채우며, 맥락 없이 안타까운 어조로 간식을 언급했다는 내레이션이 길게 이어진다.",
+   "asmr": "종이 펼침음",
+   "sfx": "paper",
+   "cap": "맥락 없는 언급 강조",
+   "fx": "텍스트 카드 롱홀드",
+   "role": "tension",
+   "why": "3.00초로 20컷 중 가장 길게 홀드되며 onsets_per_s 4.0으로 대사 밀도도 최고치를 기록, 정보 전달에 집중한 구간",
+   "shoot": "손글씨 느낌의 편지지 배경 위에 굵은 강조 문구를 배치, 카메라는 고정한 채 3초 유지",
+   "prompt": "A handwritten letter or note style text card filling most of the frame, warm paper texture background, bold emphasized Korean-style headline text"
+  },
+  {
+   "n": 15,
+   "cut_type": "hard",
+   "subj": "face",
+   "sz": "MS",
+   "ang": "정면 투샷",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "두 캐릭터가 나란히 서서 방금 상황이 무슨 의미인지 의아해하는 표정을 짓는다.",
+   "asmr": "BGM만",
+   "sfx": "",
+   "cap": "의문 표시",
+   "fx": "동시 표정 싱크",
+   "role": "tension",
+   "why": "두 캐릭터를 한 프레임에 배치해 시청자와 함께 궁금해하는 시점을 형성하는 컷",
+   "shoot": "두 캐릭터를 좌우로 배치하고 동일한 물음표형 표정을 짓게 연출",
+   "prompt": "Two chibi-style 2D animated characters standing side by side, both making a puzzled questioning expression, simple background"
+  },
+  {
+   "n": 16,
+   "cut_type": "hard",
+   "subj": "face",
+   "sz": "ECU",
+   "ang": "정면 익스트림 클로즈업",
+   "cam": "크래시 줌",
+   "speed": "1x",
+   "act": "놀라며 크게 소리치는 듯한 극단적 클로즈업 리액션, 화면이 살짝 흔들린다.",
+   "asmr": "놀람 강조 스팅어",
+   "sfx": "shock_sting",
+   "cap": "놀람 리액션",
+   "fx": "카메라 흔들림(쉐이크)",
+   "role": "tension",
+   "why": "motion_mean 17.3·오디오 rms -16.7dB로 영상 전체에서 가장 크고 격렬한 반응 컷",
+   "shoot": "크래시 줌과 화면 흔들림을 동시에 적용해 감정의 정점을 강조",
+   "prompt": "A chibi-style 2D animated character extreme close-up, wide open mouth, shocked exaggerated expression, camera shake effect"
+  },
+  {
+   "n": 17,
+   "cut_type": "hard",
+   "subj": "mixed",
+   "sz": "CU",
+   "ang": "정면 클로즈업(스크린샷 콜라주 배경)",
+   "cam": "편집 줌(펀치인)",
+   "speed": "1x",
+   "act": "눈을 가늘게 뜨고 입을 오므린 능청스러운 표정의 클로즈업 뒤로, 여러 장의 답글 캡처 이미지가 콜라주로 배치돼 있다.",
+   "asmr": "BGM만",
+   "sfx": "",
+   "cap": "속내 들킨 표정",
+   "fx": "스크린샷 콜라주+펀치인 줌",
+   "role": "reveal",
+   "why": "2.50초 동안 유지되며 반전 직전 캐릭터의 능청스러운 표정과 다수의 근거 자료를 동시에 제시하는 핵심 컷",
+   "shoot": "답글/댓글 캡처 여러 장을 배경에 작게 겹쳐 배치하고 캐릭터 표정에 초점",
+   "prompt": "A chibi-style 2D animated character close-up with a sly knowing smirk, a collage of small screenshot cards blurred in the background"
+  },
+  {
+   "n": 18,
+   "cut_type": "hard",
+   "subj": "mixed",
+   "sz": "MS",
+   "ang": "측면(레퍼런스 실루엣 배경), 캐릭터는 정면",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "추리물 캐릭터를 연상시키는 실루엣 이미지가 배경에 등장하며, 한 팬이 진짜 이유를 밝혀냈다는 내레이션이 흐른다.",
+   "asmr": "추리물 모티브 패러디 스팅어",
+   "sfx": "reference_sting",
+   "cap": "진실 규명자 등장",
+   "fx": "레퍼런스 실루엣 컷인",
+   "role": "reveal",
+   "why": "반전 직전 제3자 시점을 상징적으로 표현해 궁금증을 재점화하는 컷",
+   "shoot": "실루엣 형태의 레퍼런스 이미지를 배경에 배치하고 캐릭터는 전경에 유지",
+   "prompt": "A chibi-style 2D animated character in the foreground, a mysterious detective-like silhouette character reference faintly visible in the background"
+  },
+  {
+   "n": 19,
+   "cut_type": "hard",
+   "subj": "mixed",
+   "sz": "CU",
+   "ang": "정면(SNS 스크린샷 인서트)",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "본인 SNS 계정의 인증 마크가 포함된 게시물 스크린샷이 등장하고, 캐릭터가 밝게 웃으며 들켰다는 반응을 보인다.",
+   "asmr": "SNS 알림음",
+   "sfx": "notification_chime",
+   "cap": "본인 게시물 공개",
+   "fx": "스크린샷 인서트",
+   "role": "reveal",
+   "why": "hf_ratio_4k 0.411로 전체 평균(0.09) 대비 4배 이상 높아 알림성 SFX가 두드러지는 컷, 반전의 핵심 증거 제시",
+   "shoot": "인증 마크가 보이는 SNS 게시물 스크린샷을 상단에, 캐릭터 반응은 하단에 배치",
+   "prompt": "A verified social media post screenshot mockup at the top of the frame, a chibi-style 2D animated character below smiling with a slightly embarrassed happy expression"
+  },
+  {
+   "n": 20,
+   "cut_type": "hard",
+   "subj": "mixed",
+   "sz": "MS",
+   "ang": "정면 투샷(엔딩)",
+   "cam": "고정",
+   "speed": "1x",
+   "act": "선글라스로 변장한 캐릭터들이 자막 티커와 함께 부끄러움에 도망가는 모습으로 영상이 마무리된다.",
+   "asmr": "도망 발소리 폴리",
+   "sfx": "run_foley",
+   "cap": "변장 후 도주",
+   "fx": "자막 티커+빠른 컷 마무리",
+   "role": "payoff",
+   "why": "1.90초 동안 코믹 변장과 도주 개그로 다음 화 예고 없이 단발성 완결 엔딩을 만드는 컷",
+   "shoot": "선글라스 소품을 씌우고 빠르게 화면 밖으로 이동하는 동작 연출",
+   "prompt": "Two chibi-style 2D animated characters wearing round sunglasses in disguise, comically running off screen, a news-ticker style caption bar at the bottom"
+  }
+ ]
+}

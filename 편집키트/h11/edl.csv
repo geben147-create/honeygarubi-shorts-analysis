@@ -1,0 +1,21 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,0.067,0.067,false,text,insert,"정면(타이틀 카드, 인물 없음)",고정,1x,강조색(초록) 둘째 줄 텍스트,hook,,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=0s
+2,0.067,2.402,2.336,hard,text,insert,정면 텍스트 카드,고정,1x,강조색(초록) 둘째 줄 유지,hook,제목 반복 제시,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=0s
+3,2.402,2.603,0.2,dissolve,object,insert,정면(전환 그래픽),고정,1x,스모크 와이프,hook,,전환 강조 효과음,whoosh,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=2s
+4,2.603,4.204,1.602,hard,face,CU,정면 클로즈업(실사 배경),고정,1x,실사 배경 합성+말풍선형 이름표,setup,인물 소개 이름표,등장 스팅어,reveal_sting,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=2s
+5,4.204,6.106,1.902,hard,face,CU,정면 클로즈업,고정,1x,미세 팬 이동(호흡감),setup,특이 인물 소개,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=4s
+6,6.106,7.641,1.535,hard,mixed,insert,정면(실사 배경 인서트),고정,1x,실사 배경 합성+말풍선 그래픽,setup,방송 출연 공지,말풍선 팝업음,pop,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=6s
+7,7.641,9.61,1.969,hard,object,insert,정면 확대(SNS 아이콘 인서트),편집 줌(펀치인),1x,편집 펀치인 줌,setup,SNS 직접 작성,확대 강조음,zoom_ding,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=7s
+8,9.61,11.912,2.302,hard,face,CU,정면 클로즈업,고정,1x,선글라스 이모지 오버레이,build,의미심장한 태도,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=9s
+9,11.912,13.847,1.935,hard,face_hands,MCU,정면 상반신,고정,1x,소품(간식) 합성,build,트렌드 간식 언급,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=11s
+10,13.847,15.282,1.435,hard,face,CU,정면 클로즈업,고정,1x,미세 확대(호흡감),build,유행 여부 되묻기,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=13s
+11,15.282,17.15,1.869,hard,mixed,insert,"부감(음식 인서트), 캐릭터는 정면 소형 컷인",고정,1x,부감 인서트+말풍선 소형 컷인,build,다음 간식 예고,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=15s
+12,17.15,17.417,0.267,jump,face,CU,정면 클로즈업(점프컷),고정,1x,자막 순간 전환,tension,또 유행 지남,점프컷 강조음,stutter,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=17s
+13,17.417,19.219,1.802,hard,face_hands,MCU,측면 상반신(메모 확인),고정,1x,저채도 그레이딩(실내톤),tension,제3자 시점 등장,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=17s
+14,19.219,22.222,3.003,hard,text,insert,정면(텍스트/편지 인서트),고정,1x,텍스트 카드 롱홀드,tension,맥락 없는 언급 강조,종이 펼침음,paper,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=19s
+15,22.222,23.824,1.602,hard,face,MS,정면 투샷,고정,1x,동시 표정 싱크,tension,의문 표시,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=22s
+16,23.824,24.758,0.934,hard,face,ECU,정면 익스트림 클로즈업,크래시 줌,1x,카메라 흔들림(쉐이크),tension,놀람 리액션,놀람 강조 스팅어,shock_sting,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=23s
+17,24.758,27.261,2.502,hard,mixed,CU,정면 클로즈업(스크린샷 콜라주 배경),편집 줌(펀치인),1x,스크린샷 콜라주+펀치인 줌,reveal,속내 들킨 표정,BGM만,,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=24s
+18,27.261,28.962,1.702,hard,mixed,MS,"측면(레퍼런스 실루엣 배경), 캐릭터는 정면",고정,1x,레퍼런스 실루엣 컷인,reveal,진실 규명자 등장,추리물 모티브 패러디 스팅어,reference_sting,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=27s
+19,28.962,29.663,0.701,hard,mixed,CU,정면(SNS 스크린샷 인서트),고정,1x,스크린샷 인서트,reveal,본인 게시물 공개,SNS 알림음,notification_chime,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=28s
+20,29.663,31.565,1.902,hard,mixed,MS,정면 투샷(엔딩),고정,1x,자막 티커+빠른 컷 마무리,payoff,변장 후 도주,도망 발소리 폴리,run_foley,https://www.youtube.com/watch?v=Qn-fCE1THjA&t=29s

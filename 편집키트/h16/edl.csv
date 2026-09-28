@@ -1,0 +1,16 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,2.369,2.369,hard,text,insert,정면,고정,1x,"정지 이미지 유지, 하단 워터마크 프로필",hook,제목 카드,BGM만,,https://www.youtube.com/watch?v=gAOrfxh1cM0&t=0s
+2,2.369,2.569,0.2,dissolve,object,insert,정면,고정,1x,"스모크 와이프 트랜지션, 초단컷",setup,,전환 효과음,smoke swipe,https://www.youtube.com/watch?v=gAOrfxh1cM0&t=2s
+3,2.569,5.072,2.502,hard,face_hands,MCU,정면,고정,1x,"고정 배경 위 정지 일러스트, 태그 자막 페이드인",setup,출처 태그+인물 소개,"내레이션 중심, BGM 낮게",,https://www.youtube.com/watch?v=gAOrfxh1cM0&t=2s
+4,5.072,6.406,1.335,hard,mixed,MCU,정면,고정,1x,"반응짤 스티커 오버레이(코너), 배경 고정",hook,별명 자막,"효과음 없음, 내레이션",,https://www.youtube.com/watch?v=gAOrfxh1cM0&t=5s
+5,6.406,8.242,1.835,hard,face_hands,MCU,정면,"고정, 미세 흔들림",1x,정지 일러스트에 편집 흔들림 부여,reaction,떨떠름 리액션,"내레이션만, 무음에 가까움",,https://www.youtube.com/watch?v=gAOrfxh1cM0&t=6s
+6,8.242,9.743,1.502,hard,face,CU,정면,"고정, 편집 줌 살짝",1x,"흑백/저채도 색보정, 배경 연기 루프",tension,멸시 발언,긴장감 있는 저음 스팅어,낮은 둥 소리,https://www.youtube.com/watch?v=gAOrfxh1cM0&t=8s
+7,9.743,11.378,1.635,hard,object,insert,정면,고정,1x,이중 자막(상단 반투명 박스+하단 번역),build,고급 과자 인서트,내레이션,,https://www.youtube.com/watch?v=gAOrfxh1cM0&t=9s
+8,11.378,12.88,1.502,hard,face_hands,MS,정면,고정,1x,"두 캐릭터 투샷, 표정 대비(뿌듯 vs 떨떠름)",build,배급 장면,내레이션,,https://www.youtube.com/watch?v=gAOrfxh1cM0&t=11s
+9,12.88,14.314,1.435,hard,mixed,MCU,정면,"고정, 살짝 확대",1x,"코너 원형 반응 스티커, 자막 강조색",reaction,흉보는 속마음,내레이션+옅은 효과음,,https://www.youtube.com/watch?v=gAOrfxh1cM0&t=12s
+10,14.314,16.517,2.202,hard,face,CU,정면,크래시 줌,"1x, 컷 내부 펀치인","컷 내부 편집 확대(크래시 줌), 반짝이 파티클",build,시식 순간,효과음 강조(반짝임),반짝 효과음,https://www.youtube.com/watch?v=gAOrfxh1cM0&t=14s
+11,16.517,17.518,1.001,hard,face,CU,정면,고정,1x,1초 안팎의 정지 컷으로 다음 반전 전 숨 고르기,tension,정적 리액션,"무음에 가까운 정적, 긴장 스팅어 준비",,https://www.youtube.com/watch?v=gAOrfxh1cM0&t=16s
+12,17.518,19.319,1.802,hard,mixed,MCU,정면,"고정, 편집 줌",1x,동일 반응 스티커 재등장으로 앞선 컷과 수미상관,reveal,태세 전환 반전,반전 강조 효과음,반전 스팅어,https://www.youtube.com/watch?v=gAOrfxh1cM0&t=17s
+13,19.319,21.388,2.069,hard,object,ECU,매크로,고정,1x,실사진 인서트+가격 배지 자막,payoff,실물 증거+가격,"내레이션, 살짝 반짝임 효과음",반짝 효과음,https://www.youtube.com/watch?v=gAOrfxh1cM0&t=19s
+14,21.388,23.023,1.635,hard,face,MCU,정면,"고정, 반짝 효과",1x,"자막 색상 전환(빨강→노랑/반짝), 캐릭터 표정 미소로 전환",payoff,평판 반전 자막,반전 팡파레성 효과음,반짝+팡 효과음,https://www.youtube.com/watch?v=gAOrfxh1cM0&t=21s
+15,23.023,24.992,1.969,hard,mixed,MS,정면,고정,1x,"고정 엔딩 카드, 캐릭터 3인 나열, 감정 아이콘(하트눈 고양이)",loop,엔딩 결론 자막,엔딩 테마 톤 다운,,https://www.youtube.com/watch?v=gAOrfxh1cM0&t=23s

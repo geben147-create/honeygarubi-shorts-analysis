@@ -1,0 +1,168 @@
+{
+"fps": 29.97002997002997,
+"frames": 799,
+"duration": 26.66,
+"size": [
+720,
+1280
+],
+"threshold": 4.25,
+"shots": [
+{
+"idx": 1,
+"f_in": 0,
+"f_out": 58,
+"t_in": 0.0,
+"t_out": 1.969,
+"dur": 1.969,
+"cut_score": null,
+"bright_mean": 178.2,
+"sat_mean": 0.8,
+"motion_mean": 1.71
+},
+{
+"idx": 2,
+"f_in": 59,
+"f_out": 64,
+"t_in": 1.969,
+"t_out": 2.169,
+"dur": 0.2,
+"cut_score": 5.68,
+"bright_mean": 239.8,
+"sat_mean": 6.5,
+"motion_mean": 11.58
+},
+{
+"idx": 3,
+"f_in": 65,
+"f_out": 107,
+"t_in": 2.169,
+"t_out": 3.604,
+"dur": 1.435,
+"cut_score": 6.84,
+"bright_mean": 143.2,
+"sat_mean": 65.6,
+"motion_mean": 6.98
+},
+{
+"idx": 4,
+"f_in": 108,
+"f_out": 165,
+"t_in": 3.604,
+"t_out": 5.539,
+"dur": 1.935,
+"cut_score": 11.63,
+"bright_mean": 191.0,
+"sat_mean": 44.1,
+"motion_mean": 2.09
+},
+{
+"idx": 5,
+"f_in": 166,
+"f_out": 195,
+"t_in": 5.539,
+"t_out": 6.54,
+"dur": 1.001,
+"cut_score": 10.13,
+"bright_mean": 172.1,
+"sat_mean": 38.2,
+"motion_mean": 6.5
+},
+{
+"idx": 6,
+"f_in": 196,
+"f_out": 252,
+"t_in": 6.54,
+"t_out": 8.442,
+"dur": 1.902,
+"cut_score": 11.65,
+"bright_mean": 160.3,
+"sat_mean": 67.0,
+"motion_mean": 4.27
+},
+{
+"idx": 7,
+"f_in": 253,
+"f_out": 297,
+"t_in": 8.442,
+"t_out": 9.943,
+"dur": 1.502,
+"cut_score": 4.42,
+"bright_mean": 133.8,
+"sat_mean": 54.8,
+"motion_mean": 2.22
+},
+{
+"idx": 8,
+"f_in": 298,
+"f_out": 386,
+"t_in": 9.943,
+"t_out": 12.913,
+"dur": 2.97,
+"cut_score": 11.72,
+"bright_mean": 138.1,
+"sat_mean": 47.4,
+"motion_mean": 4.65
+},
+{
+"idx": 9,
+"f_in": 387,
+"f_out": 491,
+"t_in": 12.913,
+"t_out": 16.416,
+"dur": 3.504,
+"cut_score": 14.2,
+"bright_mean": 123.3,
+"sat_mean": 118.9,
+"motion_mean": 3.08
+},
+{
+"idx": 10,
+"f_in": 492,
+"f_out": 565,
+"t_in": 16.416,
+"t_out": 18.886,
+"dur": 2.469,
+"cut_score": 14.43,
+"bright_mean": 97.5,
+"sat_mean": 35.0,
+"motion_mean": 6.67
+},
+{
+"idx": 11,
+"f_in": 566,
+"f_out": 638,
+"t_in": 18.886,
+"t_out": 21.321,
+"dur": 2.436,
+"cut_score": 13.95,
+"bright_mean": 95.6,
+"sat_mean": 57.1,
+"motion_mean": 2.64
+},
+{
+"idx": 12,
+"f_in": 639,
+"f_out": 737,
+"t_in": 21.321,
+"t_out": 24.625,
+"dur": 3.303,
+"cut_score": 13.8,
+"bright_mean": 94.3,
+"sat_mean": 43.1,
+"motion_mean": 4.66
+},
+{
+"idx": 13,
+"f_in": 738,
+"f_out": 798,
+"t_in": 24.625,
+"t_out": 26.66,
+"dur": 2.035,
+"cut_score": 12.54,
+"bright_mean": 177.4,
+"sat_mean": 42.2,
+"motion_mean": 10.17
+}
+]
+}

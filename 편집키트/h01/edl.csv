@@ -1,0 +1,13 @@
+﻿컷,시작초,끝초,길이초,컷종류,주인공,크기,앵글,카메라,속도,효과전환,역할,자막의도,소리,효과음,유튜브장면
+1,0.0,0.067,0.067,false,text,insert,텍스트 카드(정면),고정,1x,글로우 확산 시작,hook,인트로 진입,BGM만,,https://www.youtube.com/watch?v=19bSwd8aj1I&t=0s
+2,0.067,2.169,2.102,hard,text,insert,텍스트 카드(정면),고정(글로우 애니메이션),1x,네온 글로우 펄스,hook,제목 후킹 반복,BGM만,반짝임 효과음,https://www.youtube.com/watch?v=19bSwd8aj1I&t=0s
+3,2.169,2.369,0.2,dissolve,object,insert,화면 전환 인서트(정면),편집 줌/와이프 이펙트,1x,스모크 와이프,rehook,,전환 효과음,whoosh,https://www.youtube.com/watch?v=19bSwd8aj1I&t=2s
+4,2.369,3.937,1.568,hard,face_hands,MS,아이레벨 정면,고정,1x,자막 페이드인,setup,상황 설명,BGM만,,https://www.youtube.com/watch?v=19bSwd8aj1I&t=2s
+5,3.937,8.475,4.538,hard,text,insert,"화면 인서트(탑다운, 서류 클로즈업)","고정, 자막 순차 등장",1x(자막 순차 타이핑),타이핑 자막+도장 모션,build,확인란 소개,타이핑 효과음 + 도장 효과음,stamp,https://www.youtube.com/watch?v=19bSwd8aj1I&t=3s
+6,8.475,10.978,2.502,hard,face_hands,MS,아이레벨 정면,고정,1x,배경 이스터에그(숨은 마스코트),build,습관 재확인,연필 사각거림,,https://www.youtube.com/watch?v=19bSwd8aj1I&t=8s
+7,10.978,12.446,1.468,hard,text,insert,화면 인서트(탑다운),고정,1x,인서트 확대(잡컷),tension,정체 질문,BGM만,,https://www.youtube.com/watch?v=19bSwd8aj1I&t=10s
+8,12.446,13.247,0.801,hard,face,CU,정면 클로즈업,편집 줌(펀치인),1x,펀치인,tension,질문 전달,BGM만,,https://www.youtube.com/watch?v=19bSwd8aj1I&t=12s
+9,13.247,15.716,2.469,flash,face,ECU,정면 클로즈업(과장 이펙트),편집 줌(펀치인)+배경 이펙트,1x,불배경 이펙트,reveal,과장된 답변,긴장 상승 효과음,riser,https://www.youtube.com/watch?v=19bSwd8aj1I&t=13s
+10,15.716,16.517,0.801,flash,face,ECU,정면 클로즈업,크래시 줌,1x,소용돌이눈,reaction,,경악 효과음,impact,https://www.youtube.com/watch?v=19bSwd8aj1I&t=15s
+11,16.517,20.153,3.637,hard,text,insert,화면 인서트(탑다운),"고정, 자막 교체",1x(자막 순차 교체),타이핑 자막 교체+도장 모션,payoff,진짜 이유 공개,타이핑 효과음,stamp,https://www.youtube.com/watch?v=19bSwd8aj1I&t=16s
+12,20.153,22.189,2.035,hard,text,insert,텍스트 카드(정면),고정,1x,스티커 팝업+댓글창 스타일 박스,loop,훈훈 마무리,마스코트 등장 효과음,pop,https://www.youtube.com/watch?v=19bSwd8aj1I&t=20s
